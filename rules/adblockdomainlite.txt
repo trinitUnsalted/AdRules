@@ -1,11 +1,11 @@
 !
 ! Title: AdBlock InviZible Lite
-! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：Hyper ADRules、Hyper DNSRules、GOODBYEADS AD、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  Rules、666  DNS、TW165反诈骗、DD-AD、晴雅Ad规则。Lite 版仅针对国内域名拦截。
+! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：Hyper ADRules、Hyper DNSRules、GOODBYEADS AD、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250916134217
-! Last modified: 2025/09/16 13:42:17
-! Blocked domains: 5180
+! Version: 20250916140951
+! Last modified: 2025/09/16 14:09:51
+! Blocked domains: 5188
 !
 00xvppy.cn
 img.0279.net
@@ -557,7 +557,6 @@ asearch.alicdn.com
 atanx.alicdn.com
 atanx2.alicdn.com
 baichuan-sdk.alicdn.com
-cbu01.alicdn.com
 dorangesource.alicdn.com
 gma.alicdn.com
 httpdns.alicdn.com
@@ -3396,6 +3395,7 @@ qring-tms.qq.com
 qss-client.qq.com
 rcgi.video.qq.com
 report.qq.com
+report.gamecenter.qq.com
 report.imtt.qq.com
 report.kg.qq.com
 report.nfa.qq.com
@@ -3716,7 +3716,14 @@ clog.skysrt.com
 slrqm.cn
 m.slshiye.cn
 sm-tc.cn
-sm.cn
+c.sm.cn
+hc-ssp.sm.cn
+huichuan.sm.cn
+huichuan-mc.sm.cn
+image-ad.sm.cn
+log.m.sm.cn
+sugs.m.sm.cn
+video-ad.sm.cn
 data.aftersales.smart.com
 data.ajo-dev.notifications.future.smart.com
 data.ajo-dev.srv.smart.com
@@ -4189,6 +4196,7 @@ ucsec.ucweb.com
 ucsec1.ucweb.com
 ucus.ucweb.com
 up4.ucweb.com
+m.uczzd.cn
 udeztrb.cn
 udrig.com
 uegsjnk.com
