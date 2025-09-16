@@ -57,14 +57,14 @@ class ReadMe(object):
         if url:
             link += " [原始链接](%s) |"%(url)
         else:
-            link += " [原始链接](https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/%s) |"%(fileName)
+            link += " [原始链接](https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/%s) |"%(fileName)
         
         for i in range(1, len(self.proxyList)):
             proxy = self.proxyList[i]
             if proxy.startswith("https://gcore.jsdelivr.net/"):
-                link += " [加速链接%d](%s/217heidai/adblockfilters@main/rules/%s) |"%(i, proxy, fileName)
+                link += " [加速链接%d](%s/trinitUnsalted/AdRules@main/rules/%s) |"%(i, proxy, fileName)
             else:
-                link += " [加速链接%d](%s/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/%s) |"%(i, proxy, fileName)
+                link += " [加速链接%d](%s/https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/%s) |"%(i, proxy, fileName)
         
         return link
     
@@ -146,10 +146,4 @@ class ReadMe(object):
             f.write("\n")
             
             f.write("## Star History\n")
-            f.write("[![Star History Chart](https://api.star-history.com/svg?repos=217heidai/adblockfilters&type=Date)](https://star-history.com/#217heidai/adblockfilters&Date)\n")
-            '''
-            f.write("\n")
-            f.write("## 以下是广告\n")
-            f.write('感兴趣的可以看下，DartNode 免费 VPS, [点击申请](https://dartnode.com?aff=PudgyBurrito637)\n')
-            f.write('[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")\n')
-            '''
+            f.write("[![Star History Chart](https://api.star-history.com/svg?repos=trinitUnsalted/AdRules&type=Date)](https://star-history.com/#trinitUnsalted/AdRules&Date)\n")
