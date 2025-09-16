@@ -55,7 +55,6 @@
 | Hyper DNSRules| filter | [原始链接](https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/dns.txt)
 | GOODBYEADS AD | filter | [原始链接](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt)
 | GOODBYEADS DNS| filter | [原始链接](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)
-| GOODBYEADS DNS| filter | [原始链接](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)
 | CatsTeam Rules| filter | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
 | CatsTeam  DNS | filter | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
 ## Star History
