@@ -1,14 +1,14 @@
 #
 #!name=AdBlock Loon Lite
-#!desc=适用于 Loon 的去广告合并规则，每 8 个小时更新一次。规则源：Hyper ADRules、Hyper DNSRules、GOODBYEADS AD、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD。Lite 版仅针对国内域名拦截。
+#!desc=适用于 Loon 的去广告合并规则，每 8 个小时更新一次。规则源：Hyper ADRules、Hyper DNSRules、GOODBYEADS AD、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、AD Rule、AD DNS。Lite 版仅针对国内域名拦截。
 #!homepage=https://github.com/217heidai/adblockfilters
 #!raw-url=https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockloonlite.list
 #!tag=AdBlock, 217heidai
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/09/16 14:09:51
-#!support=5188
+#!date=2025/09/16 14:25:32
+#!support=5180
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00xvppy.cn
@@ -561,6 +561,7 @@ DOMAIN-SUFFIX,asearch.alicdn.com
 DOMAIN-SUFFIX,atanx.alicdn.com
 DOMAIN-SUFFIX,atanx2.alicdn.com
 DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
+DOMAIN-SUFFIX,cbu01.alicdn.com
 DOMAIN-SUFFIX,dorangesource.alicdn.com
 DOMAIN-SUFFIX,gma.alicdn.com
 DOMAIN-SUFFIX,httpdns.alicdn.com
@@ -3399,7 +3400,6 @@ DOMAIN-SUFFIX,qring-tms.qq.com
 DOMAIN-SUFFIX,qss-client.qq.com
 DOMAIN-SUFFIX,rcgi.video.qq.com
 DOMAIN-SUFFIX,report.qq.com
-DOMAIN-SUFFIX,report.gamecenter.qq.com
 DOMAIN-SUFFIX,report.imtt.qq.com
 DOMAIN-SUFFIX,report.kg.qq.com
 DOMAIN-SUFFIX,report.nfa.qq.com
@@ -3720,14 +3720,7 @@ DOMAIN-SUFFIX,clog.skysrt.com
 DOMAIN-SUFFIX,slrqm.cn
 DOMAIN-SUFFIX,m.slshiye.cn
 DOMAIN-SUFFIX,sm-tc.cn
-DOMAIN-SUFFIX,c.sm.cn
-DOMAIN-SUFFIX,hc-ssp.sm.cn
-DOMAIN-SUFFIX,huichuan.sm.cn
-DOMAIN-SUFFIX,huichuan-mc.sm.cn
-DOMAIN-SUFFIX,image-ad.sm.cn
-DOMAIN-SUFFIX,log.m.sm.cn
-DOMAIN-SUFFIX,sugs.m.sm.cn
-DOMAIN-SUFFIX,video-ad.sm.cn
+DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,data.aftersales.smart.com
 DOMAIN-SUFFIX,data.ajo-dev.notifications.future.smart.com
 DOMAIN-SUFFIX,data.ajo-dev.srv.smart.com
@@ -4200,7 +4193,6 @@ DOMAIN-SUFFIX,ucsec.ucweb.com
 DOMAIN-SUFFIX,ucsec1.ucweb.com
 DOMAIN-SUFFIX,ucus.ucweb.com
 DOMAIN-SUFFIX,up4.ucweb.com
-DOMAIN-SUFFIX,m.uczzd.cn
 DOMAIN-SUFFIX,udeztrb.cn
 DOMAIN-SUFFIX,udrig.com
 DOMAIN-SUFFIX,uegsjnk.com
