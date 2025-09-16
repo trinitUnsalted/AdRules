@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：Hyper ADRules、Hyper DNSRules、GOODBYEADS AD、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、AD Rule、AD DNS。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20250916142532
-# Last modified: 2025/09/16 14:25:32
-# Blocked domains: 5180
+# Version: 20250916144031
+# Last modified: 2025/09/16 14:40:31
+# Blocked domains: 5188
 #
 local=/00xvppy.cn/
 local=/img.0279.net/
@@ -557,7 +557,6 @@ local=/asearch.alicdn.com/
 local=/atanx.alicdn.com/
 local=/atanx2.alicdn.com/
 local=/baichuan-sdk.alicdn.com/
-local=/cbu01.alicdn.com/
 local=/dorangesource.alicdn.com/
 local=/gma.alicdn.com/
 local=/httpdns.alicdn.com/
@@ -3396,6 +3395,7 @@ local=/qring-tms.qq.com/
 local=/qss-client.qq.com/
 local=/rcgi.video.qq.com/
 local=/report.qq.com/
+local=/report.gamecenter.qq.com/
 local=/report.imtt.qq.com/
 local=/report.kg.qq.com/
 local=/report.nfa.qq.com/
@@ -3716,7 +3716,14 @@ local=/clog.skysrt.com/
 local=/slrqm.cn/
 local=/m.slshiye.cn/
 local=/sm-tc.cn/
-local=/sm.cn/
+local=/c.sm.cn/
+local=/hc-ssp.sm.cn/
+local=/huichuan.sm.cn/
+local=/huichuan-mc.sm.cn/
+local=/image-ad.sm.cn/
+local=/log.m.sm.cn/
+local=/sugs.m.sm.cn/
+local=/video-ad.sm.cn/
 local=/data.aftersales.smart.com/
 local=/data.ajo-dev.notifications.future.smart.com/
 local=/data.ajo-dev.srv.smart.com/
@@ -4189,6 +4196,7 @@ local=/ucsec.ucweb.com/
 local=/ucsec1.ucweb.com/
 local=/ucus.ucweb.com/
 local=/up4.ucweb.com/
+local=/m.uczzd.cn/
 local=/udeztrb.cn/
 local=/udrig.com/
 local=/uegsjnk.com/
