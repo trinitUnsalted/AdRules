@@ -51,11 +51,11 @@
 
 | 规则 | 类型 | 原始链接 | 加速链接1 | 加速链接2 | 加速链接3 | 更新日期 |
 |:-|:-|:-|:-|:-|:-|:-|
-| Hyper ADRules | filter | [原始链接](https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/rules.txt)
-| Hyper DNSRules| filter | [原始链接](https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/dns.txt)
-| GOODBYEADS AD | filter | [原始链接](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt)
-| GOODBYEADS DNS| filter | [原始链接](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt)
-| CatsTeam Rules| filter | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt)
-| CatsTeam  DNS | filter | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)
+| Hyper ADRules | filter | [原始链接](https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/rules.txt) | [加速链接1] | [加速链接2] | [加速链接3] | |
+| Hyper DNSRules| filter | [原始链接](https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/dns.txt) | [加速链接1] | [加速链接2] | [加速链接3] | |
+| GOODBYEADS AD | filter | [原始链接](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt) | [加速链接1] | [加速链接2] | [加速链接3] | |
+| GOODBYEADS DNS| filter | [原始链接](https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt) | [加速链接1] | [加速链接2] | [加速链接3] | |
+| CatsTeam Rules| filter | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt) | [加速链接1] | [加速链接2] | [加速链接3] | |
+| CatsTeam  DNS | filter | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt) | [加速链接1] | [加速链接2] | [加速链接3] | |
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=trinitUnsalted/AdRules&type=Date)](https://star-history.com/#trinitUnsalted/AdRules&Date)
