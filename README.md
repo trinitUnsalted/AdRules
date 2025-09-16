@@ -61,5 +61,6 @@
 | 666  DNS | filter | [原始链接](https://raw.githubusercontent.com/qq5460168/666/master/dns.txt) | [加速链接1] | [加速链接2] | [加速链接3] | |
 | TW165反诈骗 | filter | [原始链接](https://filter.futa.gg/TW165_abp.txt) | [加速链接1] | [加速链接2] | [加速链接3] | |
 | DD-AD | filter | [原始链接](https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt) | [加速链接1] | [加速链接2] | [加速链接3] | |
+| 晴雅Ad规则 | filter | [原始链接](http://rssv.cn/adguard/api.php?type=black) | [加速链接1] | [加速链接2] | [加速链接3] | |
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=trinitUnsalted/AdRules&type=Date)](https://star-history.com/#trinitUnsalted/AdRules&Date)
