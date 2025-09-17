@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：Hyper ADRules、Hyper DNSRules、GOODBYEADS AD、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、AD Rule、AD DNS、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/trinitUnsalted/AdRules
 # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockhostslite.txt
-# Version: 20250916233639
-# Last modified: 2025/09/16 23:36:39
-# Blocked domains: 9061
+# Version: 20250917085557
+# Last modified: 2025/09/17 08:55:57
+# Blocked domains: 9049
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -2149,7 +2149,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	trk.compair.com.cn
 0.0.0.0	avatar.confong.cn
 0.0.0.0	content.confong.cn
-0.0.0.0	marketing.container-xchange.cn
 0.0.0.0	cu-cn-north00001.gala.convection.cn
 0.0.0.0	cu-cn-north00002.gala.convection.cn
 0.0.0.0	conyz.cn
@@ -2291,7 +2290,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	s1.dapenti.com
 0.0.0.0	daque.cn
 0.0.0.0	daraz.com
-0.0.0.0	net.daraz.lk
+0.0.0.0	marketing.net.daraz.lk
 0.0.0.0	net.daraz.pk
 0.0.0.0	sgtm.darryring.com
 0.0.0.0	dartsearch-cn.net
@@ -2475,7 +2474,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	doglobal.net
 0.0.0.0	ads.doit.com.cn
 0.0.0.0	dolzsr.cn
-0.0.0.0	go.domino.com.cn
 0.0.0.0	domob.cn
 0.0.0.0	domob.com.cn
 0.0.0.0	dmugc-cn.domobcdn.com
@@ -2680,7 +2678,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	etihad-vrs21rnod1.edgeone.app
 0.0.0.0	flaky-rose-zo1a2c6s16-9c77iwi0z1.edgeone.app
 0.0.0.0	pdfworknew-6d9lnfzqgb.edgeone.app
-0.0.0.0	southwestnortheast-ixmbuce0q6.edgeone.app
 0.0.0.0	sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
 0.0.0.0	tender-documents-for-office-renovation-makita-gulf-q61uegv6f7.edgeone.app
 0.0.0.0	webemali234rfy3ch34fc8ui43-fy234-dyalqukr2d.edgeone.app
@@ -2895,7 +2892,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	pv.focus.cn
 0.0.0.0	foisonad.com
 0.0.0.0	folxchina.cn
-0.0.0.0	img.ford.com
 0.0.0.0	metrics.ford.com
 0.0.0.0	smetrics.ford.com
 0.0.0.0	smetrics.sandbox.ford.com
@@ -4390,7 +4386,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	d.kpzip.com
 0.0.0.0	mininews.kpzip.com
 0.0.0.0	kqgn.cn
-0.0.0.0	marketing.krones.com
 0.0.0.0	lf6-imcloud-file-sign.bytetos.com.download.ks-cdn.com
 0.0.0.0	slb-p2p.vcloud.ks-live.com
 0.0.0.0	apihb6.ksapisrv.com
@@ -4617,7 +4612,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	forms-emea.lenovo.com
 0.0.0.0	images.business.lenovo.com
 0.0.0.0	images.smbdirect.lenovo.com
-0.0.0.0	o.lenovo.com
 0.0.0.0	s.lenovo.com
 0.0.0.0	adapi.lenovogame.com
 0.0.0.0	ad-sdk.lenovomm.com
@@ -5025,7 +5019,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	port.sec.intl.miui.com
 0.0.0.0	proxy.sec.miui.com
 0.0.0.0	r.sg.sec.miui.com
-0.0.0.0	srv.sec.miui.com
 0.0.0.0	tracking.miui.com
 0.0.0.0	tracking.eu.miui.com
 0.0.0.0	tracking.intl.miui.com
@@ -5440,7 +5433,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	stats.pairmb.com
 0.0.0.0	mm.paizi.net
 0.0.0.0	palm-ad.cn
-0.0.0.0	pg.pampers.com.cn
 0.0.0.0	vip.panggugu.com
 0.0.0.0	api-access.pangolin-sdk-toutiao2.com
 0.0.0.0	api-access.pangolin-sdk-toutiao3.com
@@ -6164,7 +6156,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	irc.qubiankeji.com
 0.0.0.0	qucvedv.cn
 0.0.0.0	qudajie.com
-0.0.0.0	www2.quectel.com
 0.0.0.0	queene.cn
 0.0.0.0	gromore.pangolin-sdk-toutiao.com.230b2a2545cfa773.queniuck.com
 0.0.0.0	api-access.pangolin-sdk-toutiao1.com.queniuiq.com
@@ -7014,7 +7005,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	all.cnzz.com.danuoyi.tbcache.com
 0.0.0.0	httpdns.danuoyi.tbcache.com
 0.0.0.0	g.tbcdn.cn
-0.0.0.0	smbc.tbgho.cn
 0.0.0.0	tbjfw.com
 0.0.0.0	a1.tbuz.com.cn
 0.0.0.0	www.tbyz5.cn
@@ -7987,7 +7977,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	analytics.wondershare.cc
 0.0.0.0	cbs.wondershare.com
 0.0.0.0	event.wondershare.com
-0.0.0.0	go.pardot.wondershare.com
 0.0.0.0	helper-stats.wondershare.com
 0.0.0.0	macplatform.wondershare.com
 0.0.0.0	platform.wondershare.com
@@ -8174,7 +8163,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	referee.xiaohongshu.com
 0.0.0.0	s.xiaohongshu.com
 0.0.0.0	spider-tracker.xiaohongshu.com
-0.0.0.0	splash-online-decision.xiaohongshu.com
 0.0.0.0	starry.xiaohongshu.com
 0.0.0.0	store.xiaohongshu.com
 0.0.0.0	t-ads.xiaohongshu.com

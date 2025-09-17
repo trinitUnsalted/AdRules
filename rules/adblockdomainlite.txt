@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：Hyper ADRules、Hyper DNSRules、GOODBYEADS AD、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、AD Rule、AD DNS、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/trinitUnsalted/AdRules
 ! Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockdomainlite.txt
-! Version: 20250916233639
-! Last modified: 2025/09/16 23:36:39
-! Blocked domains: 9061
+! Version: 20250917085557
+! Last modified: 2025/09/17 08:55:57
+! Blocked domains: 9049
 !
 00xvppy.cn
 011211.cn
@@ -2134,7 +2134,6 @@ commandersact.com
 trk.compair.com.cn
 avatar.confong.cn
 content.confong.cn
-marketing.container-xchange.cn
 cu-cn-north00001.gala.convection.cn
 cu-cn-north00002.gala.convection.cn
 conyz.cn
@@ -2276,7 +2275,7 @@ daoyoudao.com
 s1.dapenti.com
 daque.cn
 daraz.com
-net.daraz.lk
+marketing.net.daraz.lk
 net.daraz.pk
 sgtm.darryring.com
 dartsearch-cn.net
@@ -2460,7 +2459,6 @@ zx.docin.com
 doglobal.net
 ads.doit.com.cn
 dolzsr.cn
-go.domino.com.cn
 domob.cn
 domob.com.cn
 dmugc-cn.domobcdn.com
@@ -2665,7 +2663,6 @@ documents-ndiq9jtx0o.edgeone.app
 etihad-vrs21rnod1.edgeone.app
 flaky-rose-zo1a2c6s16-9c77iwi0z1.edgeone.app
 pdfworknew-6d9lnfzqgb.edgeone.app
-southwestnortheast-ixmbuce0q6.edgeone.app
 sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
 tender-documents-for-office-renovation-makita-gulf-q61uegv6f7.edgeone.app
 webemali234rfy3ch34fc8ui43-fy234-dyalqukr2d.edgeone.app
@@ -2880,7 +2877,6 @@ bdu.focus.cn
 pv.focus.cn
 foisonad.com
 folxchina.cn
-img.ford.com
 metrics.ford.com
 smetrics.ford.com
 smetrics.sandbox.ford.com
@@ -4375,7 +4371,6 @@ b.kouke5.com
 d.kpzip.com
 mininews.kpzip.com
 kqgn.cn
-marketing.krones.com
 lf6-imcloud-file-sign.bytetos.com.download.ks-cdn.com
 slb-p2p.vcloud.ks-live.com
 apihb6.ksapisrv.com
@@ -4602,7 +4597,6 @@ forms.lenovo.com
 forms-emea.lenovo.com
 images.business.lenovo.com
 images.smbdirect.lenovo.com
-o.lenovo.com
 s.lenovo.com
 adapi.lenovogame.com
 ad-sdk.lenovomm.com
@@ -5010,7 +5004,6 @@ port.sec.miui.com
 port.sec.intl.miui.com
 proxy.sec.miui.com
 r.sg.sec.miui.com
-srv.sec.miui.com
 tracking.miui.com
 tracking.eu.miui.com
 tracking.intl.miui.com
@@ -5425,7 +5418,6 @@ paime.com
 stats.pairmb.com
 mm.paizi.net
 palm-ad.cn
-pg.pampers.com.cn
 vip.panggugu.com
 api-access.pangolin-sdk-toutiao2.com
 api-access.pangolin-sdk-toutiao3.com
@@ -6149,7 +6141,6 @@ track.lc.quark.cn
 irc.qubiankeji.com
 qucvedv.cn
 qudajie.com
-www2.quectel.com
 queene.cn
 gromore.pangolin-sdk-toutiao.com.230b2a2545cfa773.queniuck.com
 api-access.pangolin-sdk-toutiao1.com.queniuiq.com
@@ -6999,7 +6990,6 @@ m.tbaiq.com
 all.cnzz.com.danuoyi.tbcache.com
 httpdns.danuoyi.tbcache.com
 g.tbcdn.cn
-smbc.tbgho.cn
 tbjfw.com
 a1.tbuz.com.cn
 www.tbyz5.cn
@@ -7972,7 +7962,6 @@ womenwan.com
 analytics.wondershare.cc
 cbs.wondershare.com
 event.wondershare.com
-go.pardot.wondershare.com
 helper-stats.wondershare.com
 macplatform.wondershare.com
 platform.wondershare.com
@@ -8159,7 +8148,6 @@ pgy.xiaohongshu.com
 referee.xiaohongshu.com
 s.xiaohongshu.com
 spider-tracker.xiaohongshu.com
-splash-online-decision.xiaohongshu.com
 starry.xiaohongshu.com
 store.xiaohongshu.com
 t-ads.xiaohongshu.com

@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：Hyper ADRules、Hyper DNSRules、GOODBYEADS AD、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、AD Rule、AD DNS、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/trinitUnsalted/AdRules
 # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockdnsmasqlite.txt
-# Version: 20250916233639
-# Last modified: 2025/09/16 23:36:39
-# Blocked domains: 9061
+# Version: 20250917085557
+# Last modified: 2025/09/17 08:55:57
+# Blocked domains: 9049
 #
 local=/00xvppy.cn/
 local=/011211.cn/
@@ -2134,7 +2134,6 @@ local=/commandersact.com/
 local=/trk.compair.com.cn/
 local=/avatar.confong.cn/
 local=/content.confong.cn/
-local=/marketing.container-xchange.cn/
 local=/cu-cn-north00001.gala.convection.cn/
 local=/cu-cn-north00002.gala.convection.cn/
 local=/conyz.cn/
@@ -2276,7 +2275,7 @@ local=/daoyoudao.com/
 local=/s1.dapenti.com/
 local=/daque.cn/
 local=/daraz.com/
-local=/net.daraz.lk/
+local=/marketing.net.daraz.lk/
 local=/net.daraz.pk/
 local=/sgtm.darryring.com/
 local=/dartsearch-cn.net/
@@ -2460,7 +2459,6 @@ local=/zx.docin.com/
 local=/doglobal.net/
 local=/ads.doit.com.cn/
 local=/dolzsr.cn/
-local=/go.domino.com.cn/
 local=/domob.cn/
 local=/domob.com.cn/
 local=/dmugc-cn.domobcdn.com/
@@ -2665,7 +2663,6 @@ local=/documents-ndiq9jtx0o.edgeone.app/
 local=/etihad-vrs21rnod1.edgeone.app/
 local=/flaky-rose-zo1a2c6s16-9c77iwi0z1.edgeone.app/
 local=/pdfworknew-6d9lnfzqgb.edgeone.app/
-local=/southwestnortheast-ixmbuce0q6.edgeone.app/
 local=/sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app/
 local=/tender-documents-for-office-renovation-makita-gulf-q61uegv6f7.edgeone.app/
 local=/webemali234rfy3ch34fc8ui43-fy234-dyalqukr2d.edgeone.app/
@@ -2880,7 +2877,6 @@ local=/bdu.focus.cn/
 local=/pv.focus.cn/
 local=/foisonad.com/
 local=/folxchina.cn/
-local=/img.ford.com/
 local=/metrics.ford.com/
 local=/smetrics.ford.com/
 local=/smetrics.sandbox.ford.com/
@@ -4375,7 +4371,6 @@ local=/b.kouke5.com/
 local=/d.kpzip.com/
 local=/mininews.kpzip.com/
 local=/kqgn.cn/
-local=/marketing.krones.com/
 local=/lf6-imcloud-file-sign.bytetos.com.download.ks-cdn.com/
 local=/slb-p2p.vcloud.ks-live.com/
 local=/apihb6.ksapisrv.com/
@@ -4602,7 +4597,6 @@ local=/forms.lenovo.com/
 local=/forms-emea.lenovo.com/
 local=/images.business.lenovo.com/
 local=/images.smbdirect.lenovo.com/
-local=/o.lenovo.com/
 local=/s.lenovo.com/
 local=/adapi.lenovogame.com/
 local=/ad-sdk.lenovomm.com/
@@ -5010,7 +5004,6 @@ local=/port.sec.miui.com/
 local=/port.sec.intl.miui.com/
 local=/proxy.sec.miui.com/
 local=/r.sg.sec.miui.com/
-local=/srv.sec.miui.com/
 local=/tracking.miui.com/
 local=/tracking.eu.miui.com/
 local=/tracking.intl.miui.com/
@@ -5425,7 +5418,6 @@ local=/paime.com/
 local=/stats.pairmb.com/
 local=/mm.paizi.net/
 local=/palm-ad.cn/
-local=/pg.pampers.com.cn/
 local=/vip.panggugu.com/
 local=/api-access.pangolin-sdk-toutiao2.com/
 local=/api-access.pangolin-sdk-toutiao3.com/
@@ -6149,7 +6141,6 @@ local=/track.lc.quark.cn/
 local=/irc.qubiankeji.com/
 local=/qucvedv.cn/
 local=/qudajie.com/
-local=/www2.quectel.com/
 local=/queene.cn/
 local=/gromore.pangolin-sdk-toutiao.com.230b2a2545cfa773.queniuck.com/
 local=/api-access.pangolin-sdk-toutiao1.com.queniuiq.com/
@@ -6999,7 +6990,6 @@ local=/m.tbaiq.com/
 local=/all.cnzz.com.danuoyi.tbcache.com/
 local=/httpdns.danuoyi.tbcache.com/
 local=/g.tbcdn.cn/
-local=/smbc.tbgho.cn/
 local=/tbjfw.com/
 local=/a1.tbuz.com.cn/
 local=/www.tbyz5.cn/
@@ -7972,7 +7962,6 @@ local=/womenwan.com/
 local=/analytics.wondershare.cc/
 local=/cbs.wondershare.com/
 local=/event.wondershare.com/
-local=/go.pardot.wondershare.com/
 local=/helper-stats.wondershare.com/
 local=/macplatform.wondershare.com/
 local=/platform.wondershare.com/
@@ -8159,7 +8148,6 @@ local=/pgy.xiaohongshu.com/
 local=/referee.xiaohongshu.com/
 local=/s.xiaohongshu.com/
 local=/spider-tracker.xiaohongshu.com/
-local=/splash-online-decision.xiaohongshu.com/
 local=/starry.xiaohongshu.com/
 local=/store.xiaohongshu.com/
 local=/t-ads.xiaohongshu.com/

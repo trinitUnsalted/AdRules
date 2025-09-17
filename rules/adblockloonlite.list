@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/09/16 23:36:39
-#!support=9061
+#!date=2025/09/17 08:55:57
+#!support=9049
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00xvppy.cn
@@ -2138,7 +2138,6 @@ DOMAIN-SUFFIX,commandersact.com
 DOMAIN-SUFFIX,trk.compair.com.cn
 DOMAIN-SUFFIX,avatar.confong.cn
 DOMAIN-SUFFIX,content.confong.cn
-DOMAIN-SUFFIX,marketing.container-xchange.cn
 DOMAIN-SUFFIX,cu-cn-north00001.gala.convection.cn
 DOMAIN-SUFFIX,cu-cn-north00002.gala.convection.cn
 DOMAIN-SUFFIX,conyz.cn
@@ -2280,7 +2279,7 @@ DOMAIN-SUFFIX,daoyoudao.com
 DOMAIN-SUFFIX,s1.dapenti.com
 DOMAIN-SUFFIX,daque.cn
 DOMAIN-SUFFIX,daraz.com
-DOMAIN-SUFFIX,net.daraz.lk
+DOMAIN-SUFFIX,marketing.net.daraz.lk
 DOMAIN-SUFFIX,net.daraz.pk
 DOMAIN-SUFFIX,sgtm.darryring.com
 DOMAIN-SUFFIX,dartsearch-cn.net
@@ -2464,7 +2463,6 @@ DOMAIN-SUFFIX,zx.docin.com
 DOMAIN-SUFFIX,doglobal.net
 DOMAIN-SUFFIX,ads.doit.com.cn
 DOMAIN-SUFFIX,dolzsr.cn
-DOMAIN-SUFFIX,go.domino.com.cn
 DOMAIN-SUFFIX,domob.cn
 DOMAIN-SUFFIX,domob.com.cn
 DOMAIN-SUFFIX,dmugc-cn.domobcdn.com
@@ -2669,7 +2667,6 @@ DOMAIN-SUFFIX,documents-ndiq9jtx0o.edgeone.app
 DOMAIN-SUFFIX,etihad-vrs21rnod1.edgeone.app
 DOMAIN-SUFFIX,flaky-rose-zo1a2c6s16-9c77iwi0z1.edgeone.app
 DOMAIN-SUFFIX,pdfworknew-6d9lnfzqgb.edgeone.app
-DOMAIN-SUFFIX,southwestnortheast-ixmbuce0q6.edgeone.app
 DOMAIN-SUFFIX,sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
 DOMAIN-SUFFIX,tender-documents-for-office-renovation-makita-gulf-q61uegv6f7.edgeone.app
 DOMAIN-SUFFIX,webemali234rfy3ch34fc8ui43-fy234-dyalqukr2d.edgeone.app
@@ -2884,7 +2881,6 @@ DOMAIN-SUFFIX,bdu.focus.cn
 DOMAIN-SUFFIX,pv.focus.cn
 DOMAIN-SUFFIX,foisonad.com
 DOMAIN-SUFFIX,folxchina.cn
-DOMAIN-SUFFIX,img.ford.com
 DOMAIN-SUFFIX,metrics.ford.com
 DOMAIN-SUFFIX,smetrics.ford.com
 DOMAIN-SUFFIX,smetrics.sandbox.ford.com
@@ -4379,7 +4375,6 @@ DOMAIN-SUFFIX,b.kouke5.com
 DOMAIN-SUFFIX,d.kpzip.com
 DOMAIN-SUFFIX,mininews.kpzip.com
 DOMAIN-SUFFIX,kqgn.cn
-DOMAIN-SUFFIX,marketing.krones.com
 DOMAIN-SUFFIX,lf6-imcloud-file-sign.bytetos.com.download.ks-cdn.com
 DOMAIN-SUFFIX,slb-p2p.vcloud.ks-live.com
 DOMAIN-SUFFIX,apihb6.ksapisrv.com
@@ -4606,7 +4601,6 @@ DOMAIN-SUFFIX,forms.lenovo.com
 DOMAIN-SUFFIX,forms-emea.lenovo.com
 DOMAIN-SUFFIX,images.business.lenovo.com
 DOMAIN-SUFFIX,images.smbdirect.lenovo.com
-DOMAIN-SUFFIX,o.lenovo.com
 DOMAIN-SUFFIX,s.lenovo.com
 DOMAIN-SUFFIX,adapi.lenovogame.com
 DOMAIN-SUFFIX,ad-sdk.lenovomm.com
@@ -5014,7 +5008,6 @@ DOMAIN-SUFFIX,port.sec.miui.com
 DOMAIN-SUFFIX,port.sec.intl.miui.com
 DOMAIN-SUFFIX,proxy.sec.miui.com
 DOMAIN-SUFFIX,r.sg.sec.miui.com
-DOMAIN-SUFFIX,srv.sec.miui.com
 DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,tracking.eu.miui.com
 DOMAIN-SUFFIX,tracking.intl.miui.com
@@ -5429,7 +5422,6 @@ DOMAIN-SUFFIX,paime.com
 DOMAIN-SUFFIX,stats.pairmb.com
 DOMAIN-SUFFIX,mm.paizi.net
 DOMAIN-SUFFIX,palm-ad.cn
-DOMAIN-SUFFIX,pg.pampers.com.cn
 DOMAIN-SUFFIX,vip.panggugu.com
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao2.com
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao3.com
@@ -6153,7 +6145,6 @@ DOMAIN-SUFFIX,track.lc.quark.cn
 DOMAIN-SUFFIX,irc.qubiankeji.com
 DOMAIN-SUFFIX,qucvedv.cn
 DOMAIN-SUFFIX,qudajie.com
-DOMAIN-SUFFIX,www2.quectel.com
 DOMAIN-SUFFIX,queene.cn
 DOMAIN-SUFFIX,gromore.pangolin-sdk-toutiao.com.230b2a2545cfa773.queniuck.com
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com.queniuiq.com
@@ -7003,7 +6994,6 @@ DOMAIN-SUFFIX,m.tbaiq.com
 DOMAIN-SUFFIX,all.cnzz.com.danuoyi.tbcache.com
 DOMAIN-SUFFIX,httpdns.danuoyi.tbcache.com
 DOMAIN-SUFFIX,g.tbcdn.cn
-DOMAIN-SUFFIX,smbc.tbgho.cn
 DOMAIN-SUFFIX,tbjfw.com
 DOMAIN-SUFFIX,a1.tbuz.com.cn
 DOMAIN-SUFFIX,www.tbyz5.cn
@@ -7976,7 +7966,6 @@ DOMAIN-SUFFIX,womenwan.com
 DOMAIN-SUFFIX,analytics.wondershare.cc
 DOMAIN-SUFFIX,cbs.wondershare.com
 DOMAIN-SUFFIX,event.wondershare.com
-DOMAIN-SUFFIX,go.pardot.wondershare.com
 DOMAIN-SUFFIX,helper-stats.wondershare.com
 DOMAIN-SUFFIX,macplatform.wondershare.com
 DOMAIN-SUFFIX,platform.wondershare.com
@@ -8163,7 +8152,6 @@ DOMAIN-SUFFIX,pgy.xiaohongshu.com
 DOMAIN-SUFFIX,referee.xiaohongshu.com
 DOMAIN-SUFFIX,s.xiaohongshu.com
 DOMAIN-SUFFIX,spider-tracker.xiaohongshu.com
-DOMAIN-SUFFIX,splash-online-decision.xiaohongshu.com
 DOMAIN-SUFFIX,starry.xiaohongshu.com
 DOMAIN-SUFFIX,store.xiaohongshu.com
 DOMAIN-SUFFIX,t-ads.xiaohongshu.com
