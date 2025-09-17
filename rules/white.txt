@@ -1,3 +1,7 @@
+# 抖音验证
+verify.snssdk.com
+# b站直播弹幕
+zj-cn-live-comet.chat.bilibili.com
 # https://github.com/217heidai/adblockfilters/issues/191
 aem.playstation.com
 metrics.aem.playstation.com
