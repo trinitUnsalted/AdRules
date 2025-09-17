@@ -1,5 +1,5 @@
 # AdBlock DNS Filters
-去广告合并规则，每8个小时更新一次。  
+去广告合并规则，每4个小时更新一次。  
 个人收藏了不少广告过滤规则，但是每次往新设备添加的时候很是头疼，于是写了这个项目，定时自动获取各规则源更新，生成合并规则库。
 
 ## 说明
@@ -66,4 +66,4 @@
 | hululu1068 List | filter | [原始链接](https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/mylist.txt) | [加速链接1](https://gcore.jsdelivr.net/gh/trinitUnsalted/AdRules@main/rules/hululu1068_List.txt) | [加速链接2](https://github.boki.moe/https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/hululu1068_List.txt) | [加速链接3](https://ghfast.top/https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/hululu1068_List.txt) | 2025/09/16 |
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=trinitUnsalted/AdRules&type=Date)](https://star-history.com/#trinitUnsalted/AdRules&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=trinitUnsalted/AdRules&type=Date)](https://www.star-history.com/#trinitUnsalted/AdRules&Date)
