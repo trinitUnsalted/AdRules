@@ -1,11 +1,11 @@
 !
 ! Title: AdBlock InviZible Lite
-! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：Hyper ADRules、Hyper DNSRules、GOODBYEADS AD、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、AD Rule、AD DNS、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
+! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/trinitUnsalted/AdRules
 ! Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockdomainlite.txt
-! Version: 20250917203726
-! Last modified: 2025/09/17 20:37:26
-! Blocked domains: 10717
+! Version: 20250917205217
+! Last modified: 2025/09/17 20:52:17
+! Blocked domains: 10711
 !
 00-gov.cn
 www.00772229.com
@@ -921,7 +921,6 @@ m.91heima.cn
 91hui.com
 91ivr.com
 91mh.me
-91nbass.cn
 t.91syun.com
 91taojin.com
 91wan.com
@@ -2235,7 +2234,6 @@ cctvgb.com.cn
 ccunf.com
 cd-best.cn
 cdbaidu.com
-www.cdcem.com
 cdcs7ri.cn
 cdda230985.cn
 3245dsfsd.cdgongfang.cn
@@ -5535,7 +5533,6 @@ lieqitianxia.cn
 lieying.cn
 ligfdjnfd.cn
 lihongli5.cn
-juvacle.lihuazixun.cn
 lilangdianqi.cn
 limkokwing-edu.cn
 judici.limvefq.cn
@@ -6073,7 +6070,6 @@ mvad.com
 mvamnng.cn
 3939.mvktvm.cn
 mvng.cn
-mw7kw23.cn
 mwjpk.com
 mxevdii.cn
 m.mxguan.com
@@ -7235,7 +7231,6 @@ qs01.cn
 qsart.cn
 qsbz2011.com
 qsfbmol.cn
-qsljw.cn
 qsmdeyz.cn
 f.qstatic.com
 qstzar.cn
@@ -8462,7 +8457,6 @@ fans.m.tmall.com
 tmmjgcp.cn
 tmuseum.com.cn
 tnarzc.com
-bvflxjoil.tncuio.cn
 tnfno.icu
 pxx.tnklrs.cn
 to8to.com

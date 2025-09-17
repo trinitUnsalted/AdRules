@@ -1,14 +1,14 @@
 #
 #!name=AdBlock Loon Lite
-#!desc=适用于 Loon 的去广告合并规则，每 8 个小时更新一次。规则源：Hyper ADRules、Hyper DNSRules、GOODBYEADS AD、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、AD Rule、AD DNS、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
+#!desc=适用于 Loon 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 #!homepage=https://github.com/trinitUnsalted/AdRules
 #!raw-url=https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockloonlite.list
 #!tag=AdBlock, 217heidai
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/09/17 20:37:26
-#!support=10717
+#!date=2025/09/17 20:52:17
+#!support=10711
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00-gov.cn
@@ -925,7 +925,6 @@ DOMAIN-SUFFIX,m.91heima.cn
 DOMAIN-SUFFIX,91hui.com
 DOMAIN-SUFFIX,91ivr.com
 DOMAIN-SUFFIX,91mh.me
-DOMAIN-SUFFIX,91nbass.cn
 DOMAIN-SUFFIX,t.91syun.com
 DOMAIN-SUFFIX,91taojin.com
 DOMAIN-SUFFIX,91wan.com
@@ -2239,7 +2238,6 @@ DOMAIN-SUFFIX,cctvgb.com.cn
 DOMAIN-SUFFIX,ccunf.com
 DOMAIN-SUFFIX,cd-best.cn
 DOMAIN-SUFFIX,cdbaidu.com
-DOMAIN-SUFFIX,www.cdcem.com
 DOMAIN-SUFFIX,cdcs7ri.cn
 DOMAIN-SUFFIX,cdda230985.cn
 DOMAIN-SUFFIX,3245dsfsd.cdgongfang.cn
@@ -5539,7 +5537,6 @@ DOMAIN-SUFFIX,lieqitianxia.cn
 DOMAIN-SUFFIX,lieying.cn
 DOMAIN-SUFFIX,ligfdjnfd.cn
 DOMAIN-SUFFIX,lihongli5.cn
-DOMAIN-SUFFIX,juvacle.lihuazixun.cn
 DOMAIN-SUFFIX,lilangdianqi.cn
 DOMAIN-SUFFIX,limkokwing-edu.cn
 DOMAIN-SUFFIX,judici.limvefq.cn
@@ -6077,7 +6074,6 @@ DOMAIN-SUFFIX,mvad.com
 DOMAIN-SUFFIX,mvamnng.cn
 DOMAIN-SUFFIX,3939.mvktvm.cn
 DOMAIN-SUFFIX,mvng.cn
-DOMAIN-SUFFIX,mw7kw23.cn
 DOMAIN-SUFFIX,mwjpk.com
 DOMAIN-SUFFIX,mxevdii.cn
 DOMAIN-SUFFIX,m.mxguan.com
@@ -7239,7 +7235,6 @@ DOMAIN-SUFFIX,qs01.cn
 DOMAIN-SUFFIX,qsart.cn
 DOMAIN-SUFFIX,qsbz2011.com
 DOMAIN-SUFFIX,qsfbmol.cn
-DOMAIN-SUFFIX,qsljw.cn
 DOMAIN-SUFFIX,qsmdeyz.cn
 DOMAIN-SUFFIX,f.qstatic.com
 DOMAIN-SUFFIX,qstzar.cn
@@ -8466,7 +8461,6 @@ DOMAIN-SUFFIX,fans.m.tmall.com
 DOMAIN-SUFFIX,tmmjgcp.cn
 DOMAIN-SUFFIX,tmuseum.com.cn
 DOMAIN-SUFFIX,tnarzc.com
-DOMAIN-SUFFIX,bvflxjoil.tncuio.cn
 DOMAIN-SUFFIX,tnfno.icu
 DOMAIN-SUFFIX,pxx.tnklrs.cn
 DOMAIN-SUFFIX,to8to.com

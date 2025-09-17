@@ -1,11 +1,11 @@
 #
 # Title: AdBlock Shadowrocket Lite
-# Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：Hyper ADRules、Hyper DNSRules、GOODBYEADS AD、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、AD Rule、AD DNS、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
+# Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/trinitUnsalted/AdRules
 # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockclashlite.list
-# Version: 20250917203726
-# Last modified: 2025/09/17 20:37:26
-# Blocked domains: 10717
+# Version: 20250917205218
+# Last modified: 2025/09/17 20:52:18
+# Blocked domains: 10711
 #
 [Rule]
 DOMAIN-SUFFIX,00-gov.cn,REJECT-DROP
@@ -922,7 +922,6 @@ DOMAIN-SUFFIX,m.91heima.cn,REJECT-DROP
 DOMAIN-SUFFIX,91hui.com,REJECT-DROP
 DOMAIN-SUFFIX,91ivr.com,REJECT-DROP
 DOMAIN-SUFFIX,91mh.me,REJECT-DROP
-DOMAIN-SUFFIX,91nbass.cn,REJECT-DROP
 DOMAIN-SUFFIX,t.91syun.com,REJECT-DROP
 DOMAIN-SUFFIX,91taojin.com,REJECT-DROP
 DOMAIN-SUFFIX,91wan.com,REJECT-DROP
@@ -2236,7 +2235,6 @@ DOMAIN-SUFFIX,cctvgb.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,ccunf.com,REJECT-DROP
 DOMAIN-SUFFIX,cd-best.cn,REJECT-DROP
 DOMAIN-SUFFIX,cdbaidu.com,REJECT-DROP
-DOMAIN-SUFFIX,www.cdcem.com,REJECT-DROP
 DOMAIN-SUFFIX,cdcs7ri.cn,REJECT-DROP
 DOMAIN-SUFFIX,cdda230985.cn,REJECT-DROP
 DOMAIN-SUFFIX,3245dsfsd.cdgongfang.cn,REJECT-DROP
@@ -5536,7 +5534,6 @@ DOMAIN-SUFFIX,lieqitianxia.cn,REJECT-DROP
 DOMAIN-SUFFIX,lieying.cn,REJECT-DROP
 DOMAIN-SUFFIX,ligfdjnfd.cn,REJECT-DROP
 DOMAIN-SUFFIX,lihongli5.cn,REJECT-DROP
-DOMAIN-SUFFIX,juvacle.lihuazixun.cn,REJECT-DROP
 DOMAIN-SUFFIX,lilangdianqi.cn,REJECT-DROP
 DOMAIN-SUFFIX,limkokwing-edu.cn,REJECT-DROP
 DOMAIN-SUFFIX,judici.limvefq.cn,REJECT-DROP
@@ -6074,7 +6071,6 @@ DOMAIN-SUFFIX,mvad.com,REJECT-DROP
 DOMAIN-SUFFIX,mvamnng.cn,REJECT-DROP
 DOMAIN-SUFFIX,3939.mvktvm.cn,REJECT-DROP
 DOMAIN-SUFFIX,mvng.cn,REJECT-DROP
-DOMAIN-SUFFIX,mw7kw23.cn,REJECT-DROP
 DOMAIN-SUFFIX,mwjpk.com,REJECT-DROP
 DOMAIN-SUFFIX,mxevdii.cn,REJECT-DROP
 DOMAIN-SUFFIX,m.mxguan.com,REJECT-DROP
@@ -7236,7 +7232,6 @@ DOMAIN-SUFFIX,qs01.cn,REJECT-DROP
 DOMAIN-SUFFIX,qsart.cn,REJECT-DROP
 DOMAIN-SUFFIX,qsbz2011.com,REJECT-DROP
 DOMAIN-SUFFIX,qsfbmol.cn,REJECT-DROP
-DOMAIN-SUFFIX,qsljw.cn,REJECT-DROP
 DOMAIN-SUFFIX,qsmdeyz.cn,REJECT-DROP
 DOMAIN-SUFFIX,f.qstatic.com,REJECT-DROP
 DOMAIN-SUFFIX,qstzar.cn,REJECT-DROP
@@ -8463,7 +8458,6 @@ DOMAIN-SUFFIX,fans.m.tmall.com,REJECT-DROP
 DOMAIN-SUFFIX,tmmjgcp.cn,REJECT-DROP
 DOMAIN-SUFFIX,tmuseum.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,tnarzc.com,REJECT-DROP
-DOMAIN-SUFFIX,bvflxjoil.tncuio.cn,REJECT-DROP
 DOMAIN-SUFFIX,tnfno.icu,REJECT-DROP
 DOMAIN-SUFFIX,pxx.tnklrs.cn,REJECT-DROP
 DOMAIN-SUFFIX,to8to.com,REJECT-DROP

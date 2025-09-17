@@ -1,11 +1,11 @@
 #
 # Title: AdBlock DNSMasq Lite
-# Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：Hyper ADRules、Hyper DNSRules、GOODBYEADS AD、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、AD Rule、AD DNS、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
+# Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/trinitUnsalted/AdRules
 # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockdnsmasqlite.txt
-# Version: 20250917203725
-# Last modified: 2025/09/17 20:37:25
-# Blocked domains: 10717
+# Version: 20250917205217
+# Last modified: 2025/09/17 20:52:17
+# Blocked domains: 10711
 #
 local=/00-gov.cn/
 local=/www.00772229.com/
@@ -921,7 +921,6 @@ local=/m.91heima.cn/
 local=/91hui.com/
 local=/91ivr.com/
 local=/91mh.me/
-local=/91nbass.cn/
 local=/t.91syun.com/
 local=/91taojin.com/
 local=/91wan.com/
@@ -2235,7 +2234,6 @@ local=/cctvgb.com.cn/
 local=/ccunf.com/
 local=/cd-best.cn/
 local=/cdbaidu.com/
-local=/www.cdcem.com/
 local=/cdcs7ri.cn/
 local=/cdda230985.cn/
 local=/3245dsfsd.cdgongfang.cn/
@@ -5535,7 +5533,6 @@ local=/lieqitianxia.cn/
 local=/lieying.cn/
 local=/ligfdjnfd.cn/
 local=/lihongli5.cn/
-local=/juvacle.lihuazixun.cn/
 local=/lilangdianqi.cn/
 local=/limkokwing-edu.cn/
 local=/judici.limvefq.cn/
@@ -6073,7 +6070,6 @@ local=/mvad.com/
 local=/mvamnng.cn/
 local=/3939.mvktvm.cn/
 local=/mvng.cn/
-local=/mw7kw23.cn/
 local=/mwjpk.com/
 local=/mxevdii.cn/
 local=/m.mxguan.com/
@@ -7235,7 +7231,6 @@ local=/qs01.cn/
 local=/qsart.cn/
 local=/qsbz2011.com/
 local=/qsfbmol.cn/
-local=/qsljw.cn/
 local=/qsmdeyz.cn/
 local=/f.qstatic.com/
 local=/qstzar.cn/
@@ -8462,7 +8457,6 @@ local=/fans.m.tmall.com/
 local=/tmmjgcp.cn/
 local=/tmuseum.com.cn/
 local=/tnarzc.com/
-local=/bvflxjoil.tncuio.cn/
 local=/tnfno.icu/
 local=/pxx.tnklrs.cn/
 local=/to8to.com/
