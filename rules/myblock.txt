@@ -12,8 +12,8 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! 放行规则
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-@@||verify.snssdk.com
-@@||zj-cn-live-comet.chat.bilibili.com
+@@||verify.snssdk.com^
+@@||zj-cn-live-comet.chat.bilibili.com^
 ! 部分邮件确认按钮跳转
 @@||r.*.awstrack.me^
 ! https://github.com/217heidai/adblockfilters/issues/131
