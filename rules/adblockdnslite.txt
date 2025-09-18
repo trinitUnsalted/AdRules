@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/trinitUnsalted/AdRules
 ! Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockdnslite.txt
-! Version: 20250918205203
-! Last modified: 2025/09/18 20:52:03
+! Version: 20250919003137
+! Last modified: 2025/09/19 00:31:37
 ! Blocked domains: 10577
 ! unBlocked domains: 215
 !
