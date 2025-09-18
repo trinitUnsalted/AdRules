@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/trinitUnsalted/AdRules
 # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockhostslite.txt
-# Version: 20250918042707
-# Last modified: 2025/09/18 04:27:07
-# Blocked domains: 10711
+# Version: 20250918095239
+# Last modified: 2025/09/18 09:52:39
+# Blocked domains: 10673
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -418,7 +418,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	u.api.look.360.cn
 0.0.0.0	vconf.f.360.cn
 0.0.0.0	wan.360.cn
-0.0.0.0	ykapi.luyou.360.cn
 0.0.0.0	360ads.com
 0.0.0.0	360app.cn
 0.0.0.0	cps.360buy.com
@@ -670,7 +669,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	img2.578965.com
 0.0.0.0	js.578965.com
 0.0.0.0	adshow.58.com
-0.0.0.0	advert.58.com
 0.0.0.0	brandshow.58.com
 0.0.0.0	im58log.58.com
 0.0.0.0	jing.58.com
@@ -1158,7 +1156,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	report-edge.agora.io
 0.0.0.0	report-europe.agora.io
 0.0.0.0	report-north-america.agora.io
-0.0.0.0	report-oversea.agora.io
 0.0.0.0	statscollector-1.agora.io
 0.0.0.0	statscollector-1-asia.agora.io
 0.0.0.0	statscollector-1-north-america.agora.io
@@ -1672,7 +1669,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	click.fanyi.baidu.com
 0.0.0.0	cm.baidu.com
 0.0.0.0	collector.dcdn.baidu.com
-0.0.0.0	console.bce.baidu.com
 0.0.0.0	cpro.baidu.com
 0.0.0.0	cpro.zhidao.baidu.com
 0.0.0.0	cpu.baidu.com
@@ -1740,7 +1736,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	leads.baidu.com
 0.0.0.0	libs.baidu.com
 0.0.0.0	log.music.baidu.com
-0.0.0.0	login.bce.baidu.com
 0.0.0.0	lookup.api.bsb.baidu.com
 0.0.0.0	luimg.baidu.com
 0.0.0.0	m1.baidu.com
@@ -2456,6 +2451,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	clientservices.googleapis.com
 0.0.0.0	clmmw.com
 0.0.0.0	cloooud.com
+0.0.0.0	7mnpeh.com1.z0.glb.clouddn.com
+0.0.0.0	7xi9g1.com1.z0.glb.clouddn.com
 0.0.0.0	bkt.clouddn.com
 0.0.0.0	advertise.cloudlinks.cn
 0.0.0.0	cm-analysis.com
@@ -2561,7 +2558,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	qr.coocaa.com
 0.0.0.0	coocaatv.com
 0.0.0.0	12.cookcai.com
-0.0.0.0	detaillog-global.coolbcloud.com
 0.0.0.0	detaillog-global-dual.coolbcloud.com
 0.0.0.0	detaillog-global-dual.coolccloud.com
 0.0.0.0	wslog-global-dual.coolccloud.com
@@ -2813,7 +2809,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	adx-drru.op.dbankcloud.ru
 0.0.0.0	events-drru.op.dbankcloud.ru
 0.0.0.0	0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
-0.0.0.0	0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
 0.0.0.0	adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn
 0.0.0.0	adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
 0.0.0.0	adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn
@@ -3203,7 +3198,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	eglizqf.cn
 0.0.0.0	egooad.com
 0.0.0.0	egrent.cn
-0.0.0.0	plugin-check.egret.com
 0.0.0.0	egsxdp.cn
 0.0.0.0	1212.ehgssdg.cn
 0.0.0.0	ehmhqcn.cn
@@ -3550,7 +3544,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	click.gamersky.com
 0.0.0.0	ja.gamersky.com
 0.0.0.0	ja1.gamersky.com
-0.0.0.0	ja2.gamersky.com
 0.0.0.0	wmbd.gamersky.com
 0.0.0.0	jiaoben.ganji.cn
 0.0.0.0	wuliao.ganji.cn
@@ -4038,7 +4031,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	dhfs-id.heytapimage.com
 0.0.0.0	dhfs-in.heytapimage.com
 0.0.0.0	dhfs-my.heytapimage.com
-0.0.0.0	dhfs-ph.heytapimage.com
 0.0.0.0	img-c.heytapimage.com
 0.0.0.0	ums-rum-cn.heytapimage.com
 0.0.0.0	ums-rum-global.heytapimage.com
@@ -4642,7 +4634,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	intxt.cn
 0.0.0.0	inveno.com
 0.0.0.0	iovia-pmj.com
-0.0.0.0	2025.ip138.com
 0.0.0.0	api.ip138.com
 0.0.0.0	ip193.cn
 0.0.0.0	c81.ipanocloud.com
@@ -4875,7 +4866,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	skdisplay.jd.com
 0.0.0.0	stat.m.jd.com
 0.0.0.0	u-x.jd.com
-0.0.0.0	union.click.jd.com
 0.0.0.0	union.m.jd.com
 0.0.0.0	uranus.jd.com
 0.0.0.0	x.jd.com
@@ -4902,7 +4892,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.jg59q.cn
 0.0.0.0	jglinks.cn
 0.0.0.0	jgmlink.cn
-0.0.0.0	jgoffice.com.cn
 0.0.0.0	jgshare.cn
 0.0.0.0	app.jgyee.com
 0.0.0.0	jgygtv.cn
@@ -5605,7 +5594,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	lnk8z.com
 0.0.0.0	lockview.cn
 0.0.0.0	deeplink.locokids.cn
-0.0.0.0	logagent-rum-292398709.cn-north-1.elb.amazonaws.com.cn
 0.0.0.0	webanalytics.logitech.com.cn
 0.0.0.0	webtarget.logitech.com.cn
 0.0.0.0	webanalytics.logitechg.com.cn
@@ -5927,7 +5915,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.aurogon.intl.miui.com
 0.0.0.0	api.browser.intl.miui.com
 0.0.0.0	api.brs.intl.miui.com
-0.0.0.0	api.calendar.intl.miui.com
 0.0.0.0	api.collect.data.intl.miui.com
 0.0.0.0	api.competition.intl.miui.com
 0.0.0.0	api.launcher.intl.miui.com
@@ -6437,7 +6424,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	bidder.dsp.outfit7.com
 0.0.0.0	cdn.outfit7.com
 0.0.0.0	cdn-gcs.outfit7.com
-0.0.0.0	events-api-ak.outfit7.com
 0.0.0.0	hb-af-us-central1.outfit7.com
 0.0.0.0	revive.outin.cn
 0.0.0.0	ouyaoxiazai.com
@@ -7453,7 +7439,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	rvzlobj.cn
 0.0.0.0	rwpt.top
 0.0.0.0	rwsignal.com
-0.0.0.0	rwyxf.cn
 0.0.0.0	rxfygd.cn
 0.0.0.0	rxxdq.cn
 0.0.0.0	rxys.cn
@@ -8242,7 +8227,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	h-adashx4bc.ut.taobao.com
 0.0.0.0	h-adashx4sg.ut.taobao.com
 0.0.0.0	h-adashx4yt.ut.taobao.com
-0.0.0.0	huodong.m.taobao.com
 0.0.0.0	hybrid.miniapp.taobao.com
 0.0.0.0	ip.taobao.com
 0.0.0.0	m-adash.m.taobao.com
@@ -8998,24 +8982,17 @@ ff02::3	ip6-allhosts
 0.0.0.0	cname-de-stsdk.vivoglobal.com
 0.0.0.0	cname-in-bom01-nginxpool03.vivoglobal.com
 0.0.0.0	cname-sin01-stsdk09.vivoglobal.com
-0.0.0.0	co-cota.vivoglobal.com
 0.0.0.0	co-domaincfg.vivoglobal.com
-0.0.0.0	co-err-up.vivoglobal.com
 0.0.0.0	co-onrt-stsdk.vivoglobal.com
 0.0.0.0	co-ort-stsdk.vivoglobal.com
-0.0.0.0	co-pnrt-stsdk.vivoglobal.com
 0.0.0.0	co-romsp-unifyconfig.vivoglobal.com
 0.0.0.0	co-st-sl.vivoglobal.com
-0.0.0.0	co-stsdk.vivoglobal.com
 0.0.0.0	co-timesync.vivoglobal.com
 0.0.0.0	co-vcode-api.vivoglobal.com
 0.0.0.0	co-vcode-od.vivoglobal.com
 0.0.0.0	co-vcode-or.vivoglobal.com
 0.0.0.0	de-gdpr-err-up.vivoglobal.com
-0.0.0.0	de-gdpr-vcode-od.vivoglobal.com
-0.0.0.0	err-up.vivoglobal.com
 0.0.0.0	err.up.vivoglobal.com
-0.0.0.0	eu-album-api.vivoglobal.com
 0.0.0.0	eu-domaincfg.vivoglobal.com
 0.0.0.0	eu-errup.vivoglobal.com
 0.0.0.0	eu-onrt-stsdk.vivoglobal.com
@@ -9023,7 +9000,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	eu-p.vivoglobal.com
 0.0.0.0	eu-romsp-unifyconfig.vivoglobal.com
 0.0.0.0	eu-st-sl.vivoglobal.com
-0.0.0.0	eu-stsdk.vivoglobal.com
 0.0.0.0	eu-timesync.vivoglobal.com
 0.0.0.0	eu-vcode-api.vivoglobal.com
 0.0.0.0	eu-vcode-od.vivoglobal.com
@@ -9036,7 +9012,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	in-ad-mkt-vivofs.vivoglobal.com
 0.0.0.0	in-adlog.vivoglobal.com
 0.0.0.0	in-adreq.vivoglobal.com
-0.0.0.0	in-analyzer-appstore.vivoglobal.com
 0.0.0.0	in-apponrt-stsdk.vivoglobal.com
 0.0.0.0	in-apport-stsdk.vivoglobal.com
 0.0.0.0	in-apppnrt-stsdk.vivoglobal.com
@@ -9045,7 +9020,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	in-ctdbonrt-stsdk.vivoglobal.com
 0.0.0.0	in-ctdbort-stsdk.vivoglobal.com
 0.0.0.0	in-ctdbpnrt-stsdk.vivoglobal.com
-0.0.0.0	in-ctdbprt-stsdk.vivoglobal.com
 0.0.0.0	in-domaincfg.vivoglobal.com
 0.0.0.0	in-errup.vivoglobal.com
 0.0.0.0	in-ex-adlog.vivoglobal.com
@@ -9063,15 +9037,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	in-vpushonrt-stsdk.vivoglobal.com
 0.0.0.0	in-vpushort-stsdk.vivoglobal.com
 0.0.0.0	kz-err-up.vivoglobal.com
-0.0.0.0	kz-monitor-stsdk.vivoglobal.com
 0.0.0.0	kz-onrt-stsdk.vivoglobal.com
 0.0.0.0	kz-ort-stsdk.vivoglobal.com
-0.0.0.0	kz-pnrt-stsdk.vivoglobal.com
 0.0.0.0	kz-romsp-unifyconfig.vivoglobal.com
 0.0.0.0	kz-st-exappupgrade.vivoglobal.com
-0.0.0.0	kz-st-sl.vivoglobal.com
 0.0.0.0	kz-stsdk.vivoglobal.com
-0.0.0.0	kz-timesync.vivoglobal.com
 0.0.0.0	kz-vcode-api.vivoglobal.com
 0.0.0.0	kz-vcode-od.vivoglobal.com
 0.0.0.0	kz-vcode-or.vivoglobal.com
@@ -9091,7 +9061,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	mx-vcode-or.vivoglobal.com
 0.0.0.0	onrt-stsdk.vivoglobal.com
 0.0.0.0	pnrt-stsdk.vivoglobal.com
-0.0.0.0	ro-up.vivoglobal.com
 0.0.0.0	ru-commonitor-stsdk.vivoglobal.com
 0.0.0.0	ru-comonrt-stsdk.vivoglobal.com
 0.0.0.0	ru-comort-stsdk.vivoglobal.com
@@ -9143,7 +9112,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tr-vcode-api.vivoglobal.com
 0.0.0.0	tr-vcode-od.vivoglobal.com
 0.0.0.0	tr-vcode-or.vivoglobal.com
-0.0.0.0	zasc-vcode-od.vivoglobal.com
 0.0.0.0	viyouhui.com
 0.0.0.0	vjie.com
 0.0.0.0	vlgkotr.cn
@@ -9219,7 +9187,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wangzhan5.com
 0.0.0.0	analytics.wanmei.com
 0.0.0.0	analytics-gw.games.wanmei.com
-0.0.0.0	dlog.wanmei.com
 0.0.0.0	dail01.wanmeilr.com
 0.0.0.0	h5.wannaplay.cn
 0.0.0.0	m.wantemachine.com.cn
@@ -9289,7 +9256,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	log.wechatpay.cn
 0.0.0.0	wecklrb.cn
 0.0.0.0	weddingeeos.com
-0.0.0.0	event.wedobest.com.cn
 0.0.0.0	event.stat.wedobest.com.cn
 0.0.0.0	weeqmcq.cn
 0.0.0.0	dns.weibo.cn
@@ -9669,7 +9635,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	de.pandora.xiaomi.com
 0.0.0.0	dvb.pandora.xiaomi.com
 0.0.0.0	global-ad-extranet-pri-azams.alb.xiaomi.com
-0.0.0.0	global-ad-extranet-pri-azpn.alb.xiaomi.com
 0.0.0.0	global-ad-intl-pri-alisgp.alb.xiaomi.com
 0.0.0.0	globalvideo.cdn.pandora.intl.xiaomi.com
 0.0.0.0	image.box.xiaomi.com
@@ -9688,7 +9653,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	redirect.pandora.xiaomi.com
 0.0.0.0	register.xmpush.global.xiaomi.com
 0.0.0.0	resolver.mi.xiaomi.com
-0.0.0.0	ru.video.intl.xiaomi.com
 0.0.0.0	sdkconfig.ad.eu.xiaomi.com
 0.0.0.0	sdkconfig.ad.india.xiaomi.com
 0.0.0.0	sdkconfig.ad.rus.xiaomi.com
@@ -9847,7 +9811,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	a13.xn--vhqt2hvuhr1h113abiq.xn--fiqs8s
 0.0.0.0	ts1703360599.xn--vhqt2hvuhr1h113abiq.xn--fiqs8s
 0.0.0.0	xn--w9q675dm1p7em.net
-0.0.0.0	ads.xn--wxtr44c.live
 0.0.0.0	xn--wxtr9fwyxk9c.xn--fiqs8s
 0.0.0.0	xn--wxtr9fwyxk9co4hbua.xn--fiqs8s
 0.0.0.0	xp3366.com
@@ -10216,7 +10179,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	myes.youku.com
 0.0.0.0	orange-dc.youku.com
 0.0.0.0	pcapp-data-collect.youku.com
-0.0.0.0	pis-tel-pcdn.youku.com
 0.0.0.0	pl.youku.com
 0.0.0.0	player-lg.youku.com
 0.0.0.0	playlog.youku.com

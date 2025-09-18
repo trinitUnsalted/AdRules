@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/trinitUnsalted/AdRules
 ! Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockdnslite.txt
-! Version: 20250918042707
-! Last modified: 2025/09/18 04:27:07
-! Blocked domains: 10711
+! Version: 20250918095239
+! Last modified: 2025/09/18 09:52:39
+! Blocked domains: 10673
 ! unBlocked domains: 214
 !
 ||00-gov.cn^
@@ -404,7 +404,6 @@
 ||u.api.look.360.cn^
 ||vconf.f.360.cn^
 ||wan.360.cn^
-||ykapi.luyou.360.cn^
 ||360ads.com^
 ||360app.cn^
 ||cps.360buy.com^
@@ -656,7 +655,6 @@
 ||img2.578965.com^
 ||js.578965.com^
 ||adshow.58.com^
-||advert.58.com^
 ||brandshow.58.com^
 ||im58log.58.com^
 ||jing.58.com^
@@ -1144,7 +1142,6 @@
 ||report-edge.agora.io^
 ||report-europe.agora.io^
 ||report-north-america.agora.io^
-||report-oversea.agora.io^
 ||statscollector-1.agora.io^
 ||statscollector-1-asia.agora.io^
 ||statscollector-1-north-america.agora.io^
@@ -1658,7 +1655,6 @@
 ||click.fanyi.baidu.com^
 ||cm.baidu.com^
 ||collector.dcdn.baidu.com^
-||console.bce.baidu.com^
 ||cpro.baidu.com^
 ||cpro.zhidao.baidu.com^
 ||cpu.baidu.com^
@@ -1726,7 +1722,6 @@
 ||leads.baidu.com^
 ||libs.baidu.com^
 ||log.music.baidu.com^
-||login.bce.baidu.com^
 ||lookup.api.bsb.baidu.com^
 ||luimg.baidu.com^
 ||m1.baidu.com^
@@ -2442,6 +2437,8 @@
 ||clientservices.googleapis.com^
 ||clmmw.com^
 ||cloooud.com^
+||7mnpeh.com1.z0.glb.clouddn.com^
+||7xi9g1.com1.z0.glb.clouddn.com^
 ||bkt.clouddn.com^
 ||advertise.cloudlinks.cn^
 ||cm-analysis.com^
@@ -2547,7 +2544,6 @@
 ||qr.coocaa.com^
 ||coocaatv.com^
 ||12.cookcai.com^
-||detaillog-global.coolbcloud.com^
 ||detaillog-global-dual.coolbcloud.com^
 ||detaillog-global-dual.coolccloud.com^
 ||wslog-global-dual.coolccloud.com^
@@ -2799,7 +2795,6 @@
 ||adx-drru.op.dbankcloud.ru^
 ||events-drru.op.dbankcloud.ru^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
-||0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
 ||adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn^
 ||adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn^
 ||adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn^
@@ -3189,7 +3184,6 @@
 ||eglizqf.cn^
 ||egooad.com^
 ||egrent.cn^
-||plugin-check.egret.com^
 ||egsxdp.cn^
 ||1212.ehgssdg.cn^
 ||ehmhqcn.cn^
@@ -3536,7 +3530,6 @@
 ||click.gamersky.com^
 ||ja.gamersky.com^
 ||ja1.gamersky.com^
-||ja2.gamersky.com^
 ||wmbd.gamersky.com^
 ||jiaoben.ganji.cn^
 ||wuliao.ganji.cn^
@@ -4024,7 +4017,6 @@
 ||dhfs-id.heytapimage.com^
 ||dhfs-in.heytapimage.com^
 ||dhfs-my.heytapimage.com^
-||dhfs-ph.heytapimage.com^
 ||img-c.heytapimage.com^
 ||ums-rum-cn.heytapimage.com^
 ||ums-rum-global.heytapimage.com^
@@ -4628,7 +4620,6 @@
 ||intxt.cn^
 ||inveno.com^
 ||iovia-pmj.com^
-||2025.ip138.com^
 ||api.ip138.com^
 ||ip193.cn^
 ||c81.ipanocloud.com^
@@ -4861,7 +4852,6 @@
 ||skdisplay.jd.com^
 ||stat.m.jd.com^
 ||u-x.jd.com^
-||union.click.jd.com^
 ||union.m.jd.com^
 ||uranus.jd.com^
 ||x.jd.com^
@@ -4888,7 +4878,6 @@
 ||m.jg59q.cn^
 ||jglinks.cn^
 ||jgmlink.cn^
-||jgoffice.com.cn^
 ||jgshare.cn^
 ||app.jgyee.com^
 ||jgygtv.cn^
@@ -5591,7 +5580,6 @@
 ||lnk8z.com^
 ||lockview.cn^
 ||deeplink.locokids.cn^
-||logagent-rum-292398709.cn-north-1.elb.amazonaws.com.cn^
 ||webanalytics.logitech.com.cn^
 ||webtarget.logitech.com.cn^
 ||webanalytics.logitechg.com.cn^
@@ -5913,7 +5901,6 @@
 ||api.aurogon.intl.miui.com^
 ||api.browser.intl.miui.com^
 ||api.brs.intl.miui.com^
-||api.calendar.intl.miui.com^
 ||api.collect.data.intl.miui.com^
 ||api.competition.intl.miui.com^
 ||api.launcher.intl.miui.com^
@@ -6423,7 +6410,6 @@
 ||bidder.dsp.outfit7.com^
 ||cdn.outfit7.com^
 ||cdn-gcs.outfit7.com^
-||events-api-ak.outfit7.com^
 ||hb-af-us-central1.outfit7.com^
 ||revive.outin.cn^
 ||ouyaoxiazai.com^
@@ -7439,7 +7425,6 @@
 ||rvzlobj.cn^
 ||rwpt.top^
 ||rwsignal.com^
-||rwyxf.cn^
 ||rxfygd.cn^
 ||rxxdq.cn^
 ||rxys.cn^
@@ -8228,7 +8213,6 @@
 ||h-adashx4bc.ut.taobao.com^
 ||h-adashx4sg.ut.taobao.com^
 ||h-adashx4yt.ut.taobao.com^
-||huodong.m.taobao.com^
 ||hybrid.miniapp.taobao.com^
 ||ip.taobao.com^
 ||m-adash.m.taobao.com^
@@ -8984,24 +8968,17 @@
 ||cname-de-stsdk.vivoglobal.com^
 ||cname-in-bom01-nginxpool03.vivoglobal.com^
 ||cname-sin01-stsdk09.vivoglobal.com^
-||co-cota.vivoglobal.com^
 ||co-domaincfg.vivoglobal.com^
-||co-err-up.vivoglobal.com^
 ||co-onrt-stsdk.vivoglobal.com^
 ||co-ort-stsdk.vivoglobal.com^
-||co-pnrt-stsdk.vivoglobal.com^
 ||co-romsp-unifyconfig.vivoglobal.com^
 ||co-st-sl.vivoglobal.com^
-||co-stsdk.vivoglobal.com^
 ||co-timesync.vivoglobal.com^
 ||co-vcode-api.vivoglobal.com^
 ||co-vcode-od.vivoglobal.com^
 ||co-vcode-or.vivoglobal.com^
 ||de-gdpr-err-up.vivoglobal.com^
-||de-gdpr-vcode-od.vivoglobal.com^
-||err-up.vivoglobal.com^
 ||err.up.vivoglobal.com^
-||eu-album-api.vivoglobal.com^
 ||eu-domaincfg.vivoglobal.com^
 ||eu-errup.vivoglobal.com^
 ||eu-onrt-stsdk.vivoglobal.com^
@@ -9009,7 +8986,6 @@
 ||eu-p.vivoglobal.com^
 ||eu-romsp-unifyconfig.vivoglobal.com^
 ||eu-st-sl.vivoglobal.com^
-||eu-stsdk.vivoglobal.com^
 ||eu-timesync.vivoglobal.com^
 ||eu-vcode-api.vivoglobal.com^
 ||eu-vcode-od.vivoglobal.com^
@@ -9022,7 +8998,6 @@
 ||in-ad-mkt-vivofs.vivoglobal.com^
 ||in-adlog.vivoglobal.com^
 ||in-adreq.vivoglobal.com^
-||in-analyzer-appstore.vivoglobal.com^
 ||in-apponrt-stsdk.vivoglobal.com^
 ||in-apport-stsdk.vivoglobal.com^
 ||in-apppnrt-stsdk.vivoglobal.com^
@@ -9031,7 +9006,6 @@
 ||in-ctdbonrt-stsdk.vivoglobal.com^
 ||in-ctdbort-stsdk.vivoglobal.com^
 ||in-ctdbpnrt-stsdk.vivoglobal.com^
-||in-ctdbprt-stsdk.vivoglobal.com^
 ||in-domaincfg.vivoglobal.com^
 ||in-errup.vivoglobal.com^
 ||in-ex-adlog.vivoglobal.com^
@@ -9049,15 +9023,11 @@
 ||in-vpushonrt-stsdk.vivoglobal.com^
 ||in-vpushort-stsdk.vivoglobal.com^
 ||kz-err-up.vivoglobal.com^
-||kz-monitor-stsdk.vivoglobal.com^
 ||kz-onrt-stsdk.vivoglobal.com^
 ||kz-ort-stsdk.vivoglobal.com^
-||kz-pnrt-stsdk.vivoglobal.com^
 ||kz-romsp-unifyconfig.vivoglobal.com^
 ||kz-st-exappupgrade.vivoglobal.com^
-||kz-st-sl.vivoglobal.com^
 ||kz-stsdk.vivoglobal.com^
-||kz-timesync.vivoglobal.com^
 ||kz-vcode-api.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||kz-vcode-or.vivoglobal.com^
@@ -9077,7 +9047,6 @@
 ||mx-vcode-or.vivoglobal.com^
 ||onrt-stsdk.vivoglobal.com^
 ||pnrt-stsdk.vivoglobal.com^
-||ro-up.vivoglobal.com^
 ||ru-commonitor-stsdk.vivoglobal.com^
 ||ru-comonrt-stsdk.vivoglobal.com^
 ||ru-comort-stsdk.vivoglobal.com^
@@ -9129,7 +9098,6 @@
 ||tr-vcode-api.vivoglobal.com^
 ||tr-vcode-od.vivoglobal.com^
 ||tr-vcode-or.vivoglobal.com^
-||zasc-vcode-od.vivoglobal.com^
 ||viyouhui.com^
 ||vjie.com^
 ||vlgkotr.cn^
@@ -9205,7 +9173,6 @@
 ||wangzhan5.com^
 ||analytics.wanmei.com^
 ||analytics-gw.games.wanmei.com^
-||dlog.wanmei.com^
 ||dail01.wanmeilr.com^
 ||h5.wannaplay.cn^
 ||m.wantemachine.com.cn^
@@ -9275,7 +9242,6 @@
 ||log.wechatpay.cn^
 ||wecklrb.cn^
 ||weddingeeos.com^
-||event.wedobest.com.cn^
 ||event.stat.wedobest.com.cn^
 ||weeqmcq.cn^
 ||dns.weibo.cn^
@@ -9655,7 +9621,6 @@
 ||de.pandora.xiaomi.com^
 ||dvb.pandora.xiaomi.com^
 ||global-ad-extranet-pri-azams.alb.xiaomi.com^
-||global-ad-extranet-pri-azpn.alb.xiaomi.com^
 ||global-ad-intl-pri-alisgp.alb.xiaomi.com^
 ||globalvideo.cdn.pandora.intl.xiaomi.com^
 ||image.box.xiaomi.com^
@@ -9674,7 +9639,6 @@
 ||redirect.pandora.xiaomi.com^
 ||register.xmpush.global.xiaomi.com^
 ||resolver.mi.xiaomi.com^
-||ru.video.intl.xiaomi.com^
 ||sdkconfig.ad.eu.xiaomi.com^
 ||sdkconfig.ad.india.xiaomi.com^
 ||sdkconfig.ad.rus.xiaomi.com^
@@ -9833,7 +9797,6 @@
 ||a13.xn--vhqt2hvuhr1h113abiq.xn--fiqs8s^
 ||ts1703360599.xn--vhqt2hvuhr1h113abiq.xn--fiqs8s^
 ||xn--w9q675dm1p7em.net^
-||ads.xn--wxtr44c.live^
 ||xn--wxtr9fwyxk9c.xn--fiqs8s^
 ||xn--wxtr9fwyxk9co4hbua.xn--fiqs8s^
 ||xp3366.com^
@@ -10202,7 +10165,6 @@
 ||myes.youku.com^
 ||orange-dc.youku.com^
 ||pcapp-data-collect.youku.com^
-||pis-tel-pcdn.youku.com^
 ||pl.youku.com^
 ||player-lg.youku.com^
 ||playlog.youku.com^
