@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/trinitUnsalted/AdRules
 # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockclashlite.list
-# Version: 20250919163325
-# Last modified: 2025/09/19 16:33:25
-# Blocked domains: 10435
+# Version: 20250919205215
+# Last modified: 2025/09/19 20:52:15
+# Blocked domains: 10424
 #
 [Rule]
 DOMAIN-SUFFIX,00-gov.cn,REJECT-DROP
@@ -4045,7 +4045,6 @@ DOMAIN-SUFFIX,hjdha.cn,REJECT-DROP
 DOMAIN-SUFFIX,resu8.hjfile.cn,REJECT-DROP
 DOMAIN-SUFFIX,hjgen.cn,REJECT-DROP
 DOMAIN-SUFFIX,hjpqt.cn,REJECT-DROP
-DOMAIN-SUFFIX,erconsumerair.hjwenyl.cn,REJECT-DROP
 DOMAIN-SUFFIX,hkdyys.cn,REJECT-DROP
 DOMAIN-SUFFIX,hkeig.com,REJECT-DROP
 DOMAIN-SUFFIX,hljyjm.cn,REJECT-DROP
@@ -4370,7 +4369,6 @@ DOMAIN-SUFFIX,ihtqqws.cn,REJECT-DROP
 DOMAIN-SUFFIX,appadapi.ihuman.com,REJECT-DROP
 DOMAIN-SUFFIX,iimedia.cn,REJECT-DROP
 DOMAIN-SUFFIX,iivruiz.cn,REJECT-DROP
-DOMAIN-SUFFIX,www.iiyout.cn,REJECT-DROP
 DOMAIN-SUFFIX,ijieo.com,REJECT-DROP
 DOMAIN-SUFFIX,ijinshan.com,REJECT-DROP
 DOMAIN-SUFFIX,daima.ijq.tv,REJECT-DROP
@@ -4557,7 +4555,6 @@ DOMAIN-SUFFIX,book.d.ireader.com,REJECT-DROP
 DOMAIN-SUFFIX,mad.ireader.com,REJECT-DROP
 DOMAIN-SUFFIX,sentry-app.ireader.com,REJECT-DROP
 DOMAIN-SUFFIX,bringture.irioygg.cn,REJECT-DROP
-DOMAIN-SUFFIX,authority.iripsfx.cn,REJECT-DROP
 DOMAIN-SUFFIX,irqqwqk.cn,REJECT-DROP
 DOMAIN-SUFFIX,irs03.com,REJECT-DROP
 DOMAIN-SUFFIX,iscrv.com,REJECT-DROP
@@ -5038,7 +5035,6 @@ DOMAIN-SUFFIX,mininews.kpzip.com,REJECT-DROP
 DOMAIN-SUFFIX,kqgn.cn,REJECT-DROP
 DOMAIN-SUFFIX,kqjtj.com,REJECT-DROP
 DOMAIN-SUFFIX,krbsumc.cn,REJECT-DROP
-DOMAIN-SUFFIX,television.kriqogx.cn,REJECT-DROP
 DOMAIN-SUFFIX,lf6-imcloud-file-sign.bytetos.com.download.ks-cdn.com,REJECT-DROP
 DOMAIN-SUFFIX,slb-p2p.vcloud.ks-live.com,REJECT-DROP
 DOMAIN-SUFFIX,apihb6.ksapisrv.com,REJECT-DROP
@@ -6634,7 +6630,6 @@ DOMAIN-SUFFIX,qjyzj.cn,REJECT-DROP
 DOMAIN-SUFFIX,qkkjd.com,REJECT-DROP
 DOMAIN-SUFFIX,qktmwiq.cn,REJECT-DROP
 DOMAIN-SUFFIX,qkxlyg.cn,REJECT-DROP
-DOMAIN-SUFFIX,qlaocny.cn,REJECT-DROP
 DOMAIN-SUFFIX,qldua.cn,REJECT-DROP
 DOMAIN-SUFFIX,qling.com,REJECT-DROP
 DOMAIN-SUFFIX,p.qlogo.cn,REJECT-DROP
@@ -6828,7 +6823,6 @@ DOMAIN-SUFFIX,mcgi.v.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,mdc.html5.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,mdevstat.qqlive.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,mfm.video.qq.com,REJECT-DROP
-DOMAIN-SUFFIX,mig.str.mdt.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,mini2015.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,minisite2012.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,minorshort.weixin.qq.com,REJECT-DROP
@@ -6844,8 +6838,6 @@ DOMAIN-SUFFIX,mqqadr.reader.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,msm.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,mta.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,mtrace.qq.com,REJECT-DROP
-DOMAIN-SUFFIX,mtt.eve.mdt.qq.com,REJECT-DROP
-DOMAIN-SUFFIX,mtt.str.mdt.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,mw.app.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,newlog.reader.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,newsc.html5.qq.com,REJECT-DROP
@@ -6856,8 +6848,6 @@ DOMAIN-SUFFIX,oimsgad.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,omgid.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,omgmta1.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,openmsf.3g.qq.com,REJECT-DROP
-DOMAIN-SUFFIX,oth.eve.mdt.qq.com,REJECT-DROP
-DOMAIN-SUFFIX,oth.str.mdt.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,oth.update.mdt.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,p.mb.qq.com,REJECT-DROP
 DOMAIN-SUFFIX,p.store.qq.com,REJECT-DROP
@@ -10095,7 +10085,6 @@ DOMAIN-SUFFIX,syrs.z74d.com,REJECT-DROP
 DOMAIN-SUFFIX,twqwq.z74d.com,REJECT-DROP
 DOMAIN-SUFFIX,www.z74d.com,REJECT-DROP
 DOMAIN-SUFFIX,m.z83rj.cn,REJECT-DROP
-DOMAIN-SUFFIX,z8berdr.cn,REJECT-DROP
 DOMAIN-SUFFIX,z8o.cn,REJECT-DROP
 DOMAIN-SUFFIX,z97g.cn,REJECT-DROP
 DOMAIN-SUFFIX,z9k7.icu,REJECT-DROP

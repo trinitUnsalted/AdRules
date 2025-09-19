@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/trinitUnsalted/AdRules
 # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockhostslite.txt
-# Version: 20250919163324
-# Last modified: 2025/09/19 16:33:24
-# Blocked domains: 10435
+# Version: 20250919205214
+# Last modified: 2025/09/19 20:52:14
+# Blocked domains: 10424
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -4059,7 +4059,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	resu8.hjfile.cn
 0.0.0.0	hjgen.cn
 0.0.0.0	hjpqt.cn
-0.0.0.0	erconsumerair.hjwenyl.cn
 0.0.0.0	hkdyys.cn
 0.0.0.0	hkeig.com
 0.0.0.0	hljyjm.cn
@@ -4384,7 +4383,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	appadapi.ihuman.com
 0.0.0.0	iimedia.cn
 0.0.0.0	iivruiz.cn
-0.0.0.0	www.iiyout.cn
 0.0.0.0	ijieo.com
 0.0.0.0	ijinshan.com
 0.0.0.0	daima.ijq.tv
@@ -4571,7 +4569,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	mad.ireader.com
 0.0.0.0	sentry-app.ireader.com
 0.0.0.0	bringture.irioygg.cn
-0.0.0.0	authority.iripsfx.cn
 0.0.0.0	irqqwqk.cn
 0.0.0.0	irs03.com
 0.0.0.0	iscrv.com
@@ -5052,7 +5049,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	kqgn.cn
 0.0.0.0	kqjtj.com
 0.0.0.0	krbsumc.cn
-0.0.0.0	television.kriqogx.cn
 0.0.0.0	lf6-imcloud-file-sign.bytetos.com.download.ks-cdn.com
 0.0.0.0	slb-p2p.vcloud.ks-live.com
 0.0.0.0	apihb6.ksapisrv.com
@@ -6648,7 +6644,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	qkkjd.com
 0.0.0.0	qktmwiq.cn
 0.0.0.0	qkxlyg.cn
-0.0.0.0	qlaocny.cn
 0.0.0.0	qldua.cn
 0.0.0.0	qling.com
 0.0.0.0	p.qlogo.cn
@@ -6842,7 +6837,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	mdc.html5.qq.com
 0.0.0.0	mdevstat.qqlive.qq.com
 0.0.0.0	mfm.video.qq.com
-0.0.0.0	mig.str.mdt.qq.com
 0.0.0.0	mini2015.qq.com
 0.0.0.0	minisite2012.qq.com
 0.0.0.0	minorshort.weixin.qq.com
@@ -6858,8 +6852,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	msm.qq.com
 0.0.0.0	mta.qq.com
 0.0.0.0	mtrace.qq.com
-0.0.0.0	mtt.eve.mdt.qq.com
-0.0.0.0	mtt.str.mdt.qq.com
 0.0.0.0	mw.app.qq.com
 0.0.0.0	newlog.reader.qq.com
 0.0.0.0	newsc.html5.qq.com
@@ -6870,8 +6862,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	omgid.qq.com
 0.0.0.0	omgmta1.qq.com
 0.0.0.0	openmsf.3g.qq.com
-0.0.0.0	oth.eve.mdt.qq.com
-0.0.0.0	oth.str.mdt.qq.com
 0.0.0.0	oth.update.mdt.qq.com
 0.0.0.0	p.mb.qq.com
 0.0.0.0	p.store.qq.com
@@ -10109,7 +10099,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	twqwq.z74d.com
 0.0.0.0	www.z74d.com
 0.0.0.0	m.z83rj.cn
-0.0.0.0	z8berdr.cn
 0.0.0.0	z8o.cn
 0.0.0.0	z97g.cn
 0.0.0.0	z9k7.icu

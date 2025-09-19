@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/09/19 16:33:25
-#!support=10435
+#!date=2025/09/19 20:52:15
+#!support=10424
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00-gov.cn
@@ -4048,7 +4048,6 @@ DOMAIN-SUFFIX,hjdha.cn
 DOMAIN-SUFFIX,resu8.hjfile.cn
 DOMAIN-SUFFIX,hjgen.cn
 DOMAIN-SUFFIX,hjpqt.cn
-DOMAIN-SUFFIX,erconsumerair.hjwenyl.cn
 DOMAIN-SUFFIX,hkdyys.cn
 DOMAIN-SUFFIX,hkeig.com
 DOMAIN-SUFFIX,hljyjm.cn
@@ -4373,7 +4372,6 @@ DOMAIN-SUFFIX,ihtqqws.cn
 DOMAIN-SUFFIX,appadapi.ihuman.com
 DOMAIN-SUFFIX,iimedia.cn
 DOMAIN-SUFFIX,iivruiz.cn
-DOMAIN-SUFFIX,www.iiyout.cn
 DOMAIN-SUFFIX,ijieo.com
 DOMAIN-SUFFIX,ijinshan.com
 DOMAIN-SUFFIX,daima.ijq.tv
@@ -4560,7 +4558,6 @@ DOMAIN-SUFFIX,book.d.ireader.com
 DOMAIN-SUFFIX,mad.ireader.com
 DOMAIN-SUFFIX,sentry-app.ireader.com
 DOMAIN-SUFFIX,bringture.irioygg.cn
-DOMAIN-SUFFIX,authority.iripsfx.cn
 DOMAIN-SUFFIX,irqqwqk.cn
 DOMAIN-SUFFIX,irs03.com
 DOMAIN-SUFFIX,iscrv.com
@@ -5041,7 +5038,6 @@ DOMAIN-SUFFIX,mininews.kpzip.com
 DOMAIN-SUFFIX,kqgn.cn
 DOMAIN-SUFFIX,kqjtj.com
 DOMAIN-SUFFIX,krbsumc.cn
-DOMAIN-SUFFIX,television.kriqogx.cn
 DOMAIN-SUFFIX,lf6-imcloud-file-sign.bytetos.com.download.ks-cdn.com
 DOMAIN-SUFFIX,slb-p2p.vcloud.ks-live.com
 DOMAIN-SUFFIX,apihb6.ksapisrv.com
@@ -6637,7 +6633,6 @@ DOMAIN-SUFFIX,qjyzj.cn
 DOMAIN-SUFFIX,qkkjd.com
 DOMAIN-SUFFIX,qktmwiq.cn
 DOMAIN-SUFFIX,qkxlyg.cn
-DOMAIN-SUFFIX,qlaocny.cn
 DOMAIN-SUFFIX,qldua.cn
 DOMAIN-SUFFIX,qling.com
 DOMAIN-SUFFIX,p.qlogo.cn
@@ -6831,7 +6826,6 @@ DOMAIN-SUFFIX,mcgi.v.qq.com
 DOMAIN-SUFFIX,mdc.html5.qq.com
 DOMAIN-SUFFIX,mdevstat.qqlive.qq.com
 DOMAIN-SUFFIX,mfm.video.qq.com
-DOMAIN-SUFFIX,mig.str.mdt.qq.com
 DOMAIN-SUFFIX,mini2015.qq.com
 DOMAIN-SUFFIX,minisite2012.qq.com
 DOMAIN-SUFFIX,minorshort.weixin.qq.com
@@ -6847,8 +6841,6 @@ DOMAIN-SUFFIX,mqqadr.reader.qq.com
 DOMAIN-SUFFIX,msm.qq.com
 DOMAIN-SUFFIX,mta.qq.com
 DOMAIN-SUFFIX,mtrace.qq.com
-DOMAIN-SUFFIX,mtt.eve.mdt.qq.com
-DOMAIN-SUFFIX,mtt.str.mdt.qq.com
 DOMAIN-SUFFIX,mw.app.qq.com
 DOMAIN-SUFFIX,newlog.reader.qq.com
 DOMAIN-SUFFIX,newsc.html5.qq.com
@@ -6859,8 +6851,6 @@ DOMAIN-SUFFIX,oimsgad.qq.com
 DOMAIN-SUFFIX,omgid.qq.com
 DOMAIN-SUFFIX,omgmta1.qq.com
 DOMAIN-SUFFIX,openmsf.3g.qq.com
-DOMAIN-SUFFIX,oth.eve.mdt.qq.com
-DOMAIN-SUFFIX,oth.str.mdt.qq.com
 DOMAIN-SUFFIX,oth.update.mdt.qq.com
 DOMAIN-SUFFIX,p.mb.qq.com
 DOMAIN-SUFFIX,p.store.qq.com
@@ -10098,7 +10088,6 @@ DOMAIN-SUFFIX,syrs.z74d.com
 DOMAIN-SUFFIX,twqwq.z74d.com
 DOMAIN-SUFFIX,www.z74d.com
 DOMAIN-SUFFIX,m.z83rj.cn
-DOMAIN-SUFFIX,z8berdr.cn
 DOMAIN-SUFFIX,z8o.cn
 DOMAIN-SUFFIX,z97g.cn
 DOMAIN-SUFFIX,z9k7.icu

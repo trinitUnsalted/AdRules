@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/trinitUnsalted/AdRules
 # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockdnsmasqlite.txt
-# Version: 20250919163324
-# Last modified: 2025/09/19 16:33:24
-# Blocked domains: 10435
+# Version: 20250919205214
+# Last modified: 2025/09/19 20:52:14
+# Blocked domains: 10424
 #
 local=/00-gov.cn/
 local=/www.00772229.com/
@@ -4044,7 +4044,6 @@ local=/hjdha.cn/
 local=/resu8.hjfile.cn/
 local=/hjgen.cn/
 local=/hjpqt.cn/
-local=/erconsumerair.hjwenyl.cn/
 local=/hkdyys.cn/
 local=/hkeig.com/
 local=/hljyjm.cn/
@@ -4369,7 +4368,6 @@ local=/ihtqqws.cn/
 local=/appadapi.ihuman.com/
 local=/iimedia.cn/
 local=/iivruiz.cn/
-local=/www.iiyout.cn/
 local=/ijieo.com/
 local=/ijinshan.com/
 local=/daima.ijq.tv/
@@ -4556,7 +4554,6 @@ local=/book.d.ireader.com/
 local=/mad.ireader.com/
 local=/sentry-app.ireader.com/
 local=/bringture.irioygg.cn/
-local=/authority.iripsfx.cn/
 local=/irqqwqk.cn/
 local=/irs03.com/
 local=/iscrv.com/
@@ -5037,7 +5034,6 @@ local=/mininews.kpzip.com/
 local=/kqgn.cn/
 local=/kqjtj.com/
 local=/krbsumc.cn/
-local=/television.kriqogx.cn/
 local=/lf6-imcloud-file-sign.bytetos.com.download.ks-cdn.com/
 local=/slb-p2p.vcloud.ks-live.com/
 local=/apihb6.ksapisrv.com/
@@ -6633,7 +6629,6 @@ local=/qjyzj.cn/
 local=/qkkjd.com/
 local=/qktmwiq.cn/
 local=/qkxlyg.cn/
-local=/qlaocny.cn/
 local=/qldua.cn/
 local=/qling.com/
 local=/p.qlogo.cn/
@@ -6827,7 +6822,6 @@ local=/mcgi.v.qq.com/
 local=/mdc.html5.qq.com/
 local=/mdevstat.qqlive.qq.com/
 local=/mfm.video.qq.com/
-local=/mig.str.mdt.qq.com/
 local=/mini2015.qq.com/
 local=/minisite2012.qq.com/
 local=/minorshort.weixin.qq.com/
@@ -6843,8 +6837,6 @@ local=/mqqadr.reader.qq.com/
 local=/msm.qq.com/
 local=/mta.qq.com/
 local=/mtrace.qq.com/
-local=/mtt.eve.mdt.qq.com/
-local=/mtt.str.mdt.qq.com/
 local=/mw.app.qq.com/
 local=/newlog.reader.qq.com/
 local=/newsc.html5.qq.com/
@@ -6855,8 +6847,6 @@ local=/oimsgad.qq.com/
 local=/omgid.qq.com/
 local=/omgmta1.qq.com/
 local=/openmsf.3g.qq.com/
-local=/oth.eve.mdt.qq.com/
-local=/oth.str.mdt.qq.com/
 local=/oth.update.mdt.qq.com/
 local=/p.mb.qq.com/
 local=/p.store.qq.com/
@@ -10094,7 +10084,6 @@ local=/syrs.z74d.com/
 local=/twqwq.z74d.com/
 local=/www.z74d.com/
 local=/m.z83rj.cn/
-local=/z8berdr.cn/
 local=/z8o.cn/
 local=/z97g.cn/
 local=/z9k7.icu/

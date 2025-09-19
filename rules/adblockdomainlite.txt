@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/trinitUnsalted/AdRules
 ! Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockdomainlite.txt
-! Version: 20250919163324
-! Last modified: 2025/09/19 16:33:24
-! Blocked domains: 10435
+! Version: 20250919205214
+! Last modified: 2025/09/19 20:52:14
+! Blocked domains: 10424
 !
 00-gov.cn
 www.00772229.com
@@ -4044,7 +4044,6 @@ hjdha.cn
 resu8.hjfile.cn
 hjgen.cn
 hjpqt.cn
-erconsumerair.hjwenyl.cn
 hkdyys.cn
 hkeig.com
 hljyjm.cn
@@ -4369,7 +4368,6 @@ ihtqqws.cn
 appadapi.ihuman.com
 iimedia.cn
 iivruiz.cn
-www.iiyout.cn
 ijieo.com
 ijinshan.com
 daima.ijq.tv
@@ -4556,7 +4554,6 @@ book.d.ireader.com
 mad.ireader.com
 sentry-app.ireader.com
 bringture.irioygg.cn
-authority.iripsfx.cn
 irqqwqk.cn
 irs03.com
 iscrv.com
@@ -5037,7 +5034,6 @@ mininews.kpzip.com
 kqgn.cn
 kqjtj.com
 krbsumc.cn
-television.kriqogx.cn
 lf6-imcloud-file-sign.bytetos.com.download.ks-cdn.com
 slb-p2p.vcloud.ks-live.com
 apihb6.ksapisrv.com
@@ -6633,7 +6629,6 @@ qjyzj.cn
 qkkjd.com
 qktmwiq.cn
 qkxlyg.cn
-qlaocny.cn
 qldua.cn
 qling.com
 p.qlogo.cn
@@ -6827,7 +6822,6 @@ mcgi.v.qq.com
 mdc.html5.qq.com
 mdevstat.qqlive.qq.com
 mfm.video.qq.com
-mig.str.mdt.qq.com
 mini2015.qq.com
 minisite2012.qq.com
 minorshort.weixin.qq.com
@@ -6843,8 +6837,6 @@ mqqadr.reader.qq.com
 msm.qq.com
 mta.qq.com
 mtrace.qq.com
-mtt.eve.mdt.qq.com
-mtt.str.mdt.qq.com
 mw.app.qq.com
 newlog.reader.qq.com
 newsc.html5.qq.com
@@ -6855,8 +6847,6 @@ oimsgad.qq.com
 omgid.qq.com
 omgmta1.qq.com
 openmsf.3g.qq.com
-oth.eve.mdt.qq.com
-oth.str.mdt.qq.com
 oth.update.mdt.qq.com
 p.mb.qq.com
 p.store.qq.com
@@ -10094,7 +10084,6 @@ syrs.z74d.com
 twqwq.z74d.com
 www.z74d.com
 m.z83rj.cn
-z8berdr.cn
 z8o.cn
 z97g.cn
 z9k7.icu
