@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/trinitUnsalted/AdRules
 # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockhostslite.txt
-# Version: 20250919042816
-# Last modified: 2025/09/19 04:28:16
-# Blocked domains: 10577
+# Version: 20250919095557
+# Last modified: 2025/09/19 09:55:57
+# Blocked domains: 10578
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -4566,6 +4566,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	inepost.top
 0.0.0.0	link.infineon.cn
 0.0.0.0	link.infineon.com
+0.0.0.0	reply.infineon.com
 0.0.0.0	ssgtm.infineon.com
 0.0.0.0	track-e.infineon.com
 0.0.0.0	x.infzm.com

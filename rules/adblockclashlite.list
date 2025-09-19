@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/trinitUnsalted/AdRules
 # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockclashlite.list
-# Version: 20250919042816
-# Last modified: 2025/09/19 04:28:16
-# Blocked domains: 10577
+# Version: 20250919095558
+# Last modified: 2025/09/19 09:55:58
+# Blocked domains: 10578
 #
 [Rule]
 DOMAIN-SUFFIX,00-gov.cn,REJECT-DROP
@@ -4552,6 +4552,7 @@ DOMAIN-SUFFIX,ssp.indexmob.com,REJECT-DROP
 DOMAIN-SUFFIX,inepost.top,REJECT-DROP
 DOMAIN-SUFFIX,link.infineon.cn,REJECT-DROP
 DOMAIN-SUFFIX,link.infineon.com,REJECT-DROP
+DOMAIN-SUFFIX,reply.infineon.com,REJECT-DROP
 DOMAIN-SUFFIX,ssgtm.infineon.com,REJECT-DROP
 DOMAIN-SUFFIX,track-e.infineon.com,REJECT-DROP
 DOMAIN-SUFFIX,x.infzm.com,REJECT-DROP
