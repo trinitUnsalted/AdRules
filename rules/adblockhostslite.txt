@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/trinitUnsalted/AdRules
 # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockhostslite.txt
-# Version: 20250919205214
-# Last modified: 2025/09/19 20:52:14
-# Blocked domains: 10424
+# Version: 20250920003104
+# Last modified: 2025/09/20 00:31:04
+# Blocked domains: 10423
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -2822,7 +2822,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	doumaibiji.cn
 0.0.0.0	doumob.com
 0.0.0.0	douyaobuy.com
-0.0.0.0	open.douyin.com
 0.0.0.0	open-client.douyin.com
 0.0.0.0	webcast5-open-hl.douyin.com
 0.0.0.0	webcast5-open-lf.douyin.com

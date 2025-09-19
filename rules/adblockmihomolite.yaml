@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/trinitUnsalted/AdRules
   # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockmihomolite.yaml
-  # Version: 20250919205215
-  # Last modified: 2025/09/19 20:52:15
-  # Blocked domains: 10424
+  # Version: 20250920003104
+  # Last modified: 2025/09/20 00:31:04
+  # Blocked domains: 10423
   #
   - '+.00-gov.cn'
   - '+.www.00772229.com'
@@ -2808,7 +2808,6 @@ payload:
   - '+.doumaibiji.cn'
   - '+.doumob.com'
   - '+.douyaobuy.com'
-  - '+.open.douyin.com'
   - '+.open-client.douyin.com'
   - '+.webcast5-open-hl.douyin.com'
   - '+.webcast5-open-lf.douyin.com'
