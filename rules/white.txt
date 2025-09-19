@@ -1,4 +1,5 @@
 # 抖音验证
+open.douyin.com
 verify.snssdk.com
 # b站直播弹幕
 chat.bilibili.com
