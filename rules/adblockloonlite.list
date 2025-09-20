@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2025/09/20 04:27:26
-#!support=10423
+#!date=2025/09/20 09:50:21
+#!support=10417
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,00-gov.cn
@@ -1005,7 +1005,6 @@ DOMAIN-SUFFIX,report-edge.agora.io
 DOMAIN-SUFFIX,report-europe.agora.io
 DOMAIN-SUFFIX,report-north-america.agora.io
 DOMAIN-SUFFIX,statscollector-1.agora.io
-DOMAIN-SUFFIX,statscollector-1-asia.agora.io
 DOMAIN-SUFFIX,statscollector-1-north-america.agora.io
 DOMAIN-SUFFIX,tracking.agora.io
 DOMAIN-SUFFIX,webcollector-rtm.agora.io
@@ -1637,7 +1636,6 @@ DOMAIN-SUFFIX,sp3.baidu.com
 DOMAIN-SUFFIX,sptest.baidu.com
 DOMAIN-SUFFIX,stat.v.baidu.com
 DOMAIN-SUFFIX,static.su.baidu.com
-DOMAIN-SUFFIX,static.tieba.baidu.com
 DOMAIN-SUFFIX,static1.searchbox.baidu.com
 DOMAIN-SUFFIX,suggestion.baidu.com
 DOMAIN-SUFFIX,tcbox.baidu.com
@@ -2263,7 +2261,6 @@ DOMAIN-SUFFIX,xpgw-mob-xcdn.cp31.ott.cibntv.net
 DOMAIN-SUFFIX,yk-ssp-ad.cp31.ott.cibntv.net
 DOMAIN-SUFFIX,ykad-data.cp31.ott.cibntv.net
 DOMAIN-SUFFIX,cig.com.cn
-DOMAIN-SUFFIX,cippe.com.cn
 DOMAIN-SUFFIX,metrics.citi.cn
 DOMAIN-SUFFIX,metrics.citi.com.cn
 DOMAIN-SUFFIX,metrics.citibank.cn
@@ -3961,7 +3958,6 @@ DOMAIN-SUFFIX,grs.hicloud.com
 DOMAIN-SUFFIX,logbak.hicloud.com
 DOMAIN-SUFFIX,logservice.hicloud.com
 DOMAIN-SUFFIX,logservice-dra.platform.hicloud.com
-DOMAIN-SUFFIX,logservice-dre.platform.hicloud.com
 DOMAIN-SUFFIX,logservice1.hicloud.com
 DOMAIN-SUFFIX,higame123.com
 DOMAIN-SUFFIX,svip.high24-playback.com
@@ -4300,7 +4296,6 @@ DOMAIN-SUFFIX,iconworkshop.cn
 DOMAIN-SUFFIX,ics-cert.org.cn
 DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,idasui.cn
-DOMAIN-SUFFIX,kali.free.idcfengye.com
 DOMAIN-SUFFIX,ideng.com
 DOMAIN-SUFFIX,identified.cn
 DOMAIN-SUFFIX,idffhq.cn
@@ -4448,7 +4443,6 @@ DOMAIN-SUFFIX,cane.intel.cn
 DOMAIN-SUFFIX,dogo.intel.cn
 DOMAIN-SUFFIX,intely.cn
 DOMAIN-SUFFIX,smetrics.marketing.interact-lighting.com.cn
-DOMAIN-SUFFIX,ads.intergreat.com
 DOMAIN-SUFFIX,link.intergreat.com
 DOMAIN-SUFFIX,intxt.cn
 DOMAIN-SUFFIX,inveno.com
@@ -5638,7 +5632,6 @@ DOMAIN-SUFFIX,a.mfcad.net
 DOMAIN-SUFFIX,mfcvxw.cn
 DOMAIN-SUFFIX,stayaire.mfuwwfzb.cn
 DOMAIN-SUFFIX,mgs123.com
-DOMAIN-SUFFIX,odml.ad.intl.xiaomi.com.mgslb.com
 DOMAIN-SUFFIX,mgsptv-live.cn
 DOMAIN-SUFFIX,as.mgtv.com
 DOMAIN-SUFFIX,audit.aaa.mgtv.com
@@ -5662,7 +5655,6 @@ DOMAIN-SUFFIX,resolver.gslb.mi-idc.com
 DOMAIN-SUFFIX,ssl-cdn.static.browser.mi-img.com
 DOMAIN-SUFFIX,a.hl.mi.com
 DOMAIN-SUFFIX,ad.mi.com
-DOMAIN-SUFFIX,api.jr.mi.com
 DOMAIN-SUFFIX,d.g.mi.com
 DOMAIN-SUFFIX,e.mi.com
 DOMAIN-SUFFIX,h5.tv.mi.com
@@ -6825,6 +6817,7 @@ DOMAIN-SUFFIX,mcgi.v.qq.com
 DOMAIN-SUFFIX,mdc.html5.qq.com
 DOMAIN-SUFFIX,mdevstat.qqlive.qq.com
 DOMAIN-SUFFIX,mfm.video.qq.com
+DOMAIN-SUFFIX,mig.str.mdt.qq.com
 DOMAIN-SUFFIX,mini2015.qq.com
 DOMAIN-SUFFIX,minisite2012.qq.com
 DOMAIN-SUFFIX,minorshort.weixin.qq.com
@@ -6840,6 +6833,8 @@ DOMAIN-SUFFIX,mqqadr.reader.qq.com
 DOMAIN-SUFFIX,msm.qq.com
 DOMAIN-SUFFIX,mta.qq.com
 DOMAIN-SUFFIX,mtrace.qq.com
+DOMAIN-SUFFIX,mtt.eve.mdt.qq.com
+DOMAIN-SUFFIX,mtt.str.mdt.qq.com
 DOMAIN-SUFFIX,mw.app.qq.com
 DOMAIN-SUFFIX,newlog.reader.qq.com
 DOMAIN-SUFFIX,newsc.html5.qq.com
@@ -6850,6 +6845,8 @@ DOMAIN-SUFFIX,oimsgad.qq.com
 DOMAIN-SUFFIX,omgid.qq.com
 DOMAIN-SUFFIX,omgmta1.qq.com
 DOMAIN-SUFFIX,openmsf.3g.qq.com
+DOMAIN-SUFFIX,oth.eve.mdt.qq.com
+DOMAIN-SUFFIX,oth.str.mdt.qq.com
 DOMAIN-SUFFIX,oth.update.mdt.qq.com
 DOMAIN-SUFFIX,p.mb.qq.com
 DOMAIN-SUFFIX,p.store.qq.com
@@ -7425,7 +7422,6 @@ DOMAIN-SUFFIX,shuyu2001.cn
 DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,shx11.xyz
 DOMAIN-SUFFIX,shxinjie.cn
-DOMAIN-SUFFIX,ads-monitoring.shziyi.com
 DOMAIN-SUFFIX,sifubo.cn
 DOMAIN-SUFFIX,sifuda.cn
 DOMAIN-SUFFIX,sifuge.cn
@@ -7559,7 +7555,6 @@ DOMAIN-SUFFIX,api.app.skysrt.com
 DOMAIN-SUFFIX,api.device.skysrt.com
 DOMAIN-SUFFIX,api.home.skysrt.com
 DOMAIN-SUFFIX,business.video.tc.skysrt.com
-DOMAIN-SUFFIX,clog.skysrt.com
 DOMAIN-SUFFIX,data-dl.skysrt.com
 DOMAIN-SUFFIX,dl.skysrt.com
 DOMAIN-SUFFIX,rpc-tc.skysrt.com
@@ -9981,7 +9976,6 @@ DOMAIN-SUFFIX,yretx.cn
 DOMAIN-SUFFIX,yrszy.com.cn
 DOMAIN-SUFFIX,ys630.com
 DOMAIN-SUFFIX,ys6ot.cn
-DOMAIN-SUFFIX,ad-material.ys7.com
 DOMAIN-SUFFIX,log.ys7.com
 DOMAIN-SUFFIX,seriesfaction.ysao3o8.cn
 DOMAIN-SUFFIX,ads.ysepay.com
