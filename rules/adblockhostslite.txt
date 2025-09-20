@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/trinitUnsalted/AdRules
 # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockhostslite.txt
-# Version: 20250920163029
-# Last modified: 2025/09/20 16:30:29
-# Blocked domains: 10802
+# Version: 20250920204736
+# Last modified: 2025/09/20 20:47:36
+# Blocked domains: 10788
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -80,7 +80,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	0z5jn.cn
 0.0.0.0	10000xing.cn
 0.0.0.0	1000su.com
-0.0.0.0	1717.1000uc.com
 0.0.0.0	enrichgw.10010.com
 0.0.0.0	jf.10010.com
 0.0.0.0	nishub1.10010.com
@@ -2060,7 +2059,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	blossommo.com
 0.0.0.0	blue-rain.com.cn
 0.0.0.0	gg.blueidea.com
-0.0.0.0	bluemountcapital.cn
 0.0.0.0	iiid.bluescream.cn
 0.0.0.0	license.bluesoleil.com
 0.0.0.0	license2.bluesoleil.com
@@ -3191,8 +3189,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	etihad-vrs21rnod1.edgeone.app
 0.0.0.0	flaky-rose-zo1a2c6s16-9c77iwi0z1.edgeone.app
 0.0.0.0	pdfworknew-6d9lnfzqgb.edgeone.app
-0.0.0.0	powerful-tan-ks8mpqad9l-w2r56ynb1z.edgeone.app
-0.0.0.0	southwestnortheast-ixmbuce0q6.edgeone.app
 0.0.0.0	sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app
 0.0.0.0	tender-documents-for-office-renovation-makita-gulf-q61uegv6f7.edgeone.app
 0.0.0.0	webemali234rfy3ch34fc8ui43-fy234-dyalqukr2d.edgeone.app
@@ -3251,7 +3247,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	log.star.ele.me
 0.0.0.0	newton-api.ele.me
 0.0.0.0	metrics.ellechina.com
-0.0.0.0	trk.elmorietschle.cn
 0.0.0.0	d.elong.cn
 0.0.0.0	mhuodong.elong.com
 0.0.0.0	emar.com
@@ -3507,7 +3502,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	freedrive.cn
 0.0.0.0	dd1.freep.cn
 0.0.0.0	dd2.freep.cn
-0.0.0.0	frwjiv.cn
 0.0.0.0	fsjjrbz.cn
 0.0.0.0	image.fsyule.net
 0.0.0.0	fthcz.com
@@ -3723,7 +3717,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	50m.gkcyc.com
 0.0.0.0	gklox.cn
 0.0.0.0	gknybkl.cn
-0.0.0.0	gkoast.cn
 0.0.0.0	nwww.gkxs.com
 0.0.0.0	media.globalsign.com
 0.0.0.0	seal.globalsign.com
@@ -3733,7 +3726,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	exhibition.edm.globalsources.com
 0.0.0.0	fashion.edm.globalsources.com
 0.0.0.0	fashion.tradeshow.globalsources.com
-0.0.0.0	goe.edm.globalsources.com
 0.0.0.0	gslive.edm.globalsources.com
 0.0.0.0	gsmatch.edm.globalsources.com
 0.0.0.0	gsol.edm.globalsources.com
@@ -4356,7 +4348,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ht55.cn
 0.0.0.0	new.htcui.com
 0.0.0.0	hthvc.icu
-0.0.0.0	htlhvnk.cn
 0.0.0.0	httpdns.pro
 0.0.0.0	htubzpb.cn
 0.0.0.0	m.hua6.cn
@@ -5438,7 +5429,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ky595images.com
 0.0.0.0	kychq.cn
 0.0.0.0	kyikdee.cn
-0.0.0.0	kyjlt.cn
 0.0.0.0	kzchyhr.cn
 0.0.0.0	kzjkexn.cn
 0.0.0.0	go.eml.l-com.cn
@@ -5676,7 +5666,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	longkoupeanut.cn
 0.0.0.0	longshangxiaodai.cn
 0.0.0.0	looyu.com
-0.0.0.0	lorprpx.cn
 0.0.0.0	louisan.cn
 0.0.0.0	lousivency.com.cn
 0.0.0.0	c.lovame.com.cn
@@ -5694,7 +5683,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	lpmzt.cn
 0.0.0.0	lpsgc.cn
 0.0.0.0	ad.lqalm.com
-0.0.0.0	lrsdh.cn
 0.0.0.0	lrswl.com
 0.0.0.0	ny.lshdw.cc
 0.0.0.0	a1.lshou.com
@@ -6426,7 +6414,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	orthistic.ofudnyza.cn
 0.0.0.0	ogawaj.digital
 0.0.0.0	ogouawc.cn
-0.0.0.0	ogtys0l.cn
 0.0.0.0	ohayoo.cn
 0.0.0.0	ohuam.com
 0.0.0.0	apps5.oingo.com
@@ -8724,7 +8711,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.tysfcy.cn
 0.0.0.0	tz-dsp.com
 0.0.0.0	tzcfyre.cn
-0.0.0.0	tzifuxp.cn
 0.0.0.0	tzlit.cn
 0.0.0.0	kn.tzsmab.cn
 0.0.0.0	njd.tzxianghao.cn

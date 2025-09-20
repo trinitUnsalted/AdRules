@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/trinitUnsalted/AdRules
 # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockdnsmasqlite.txt
-# Version: 20250920163029
-# Last modified: 2025/09/20 16:30:29
-# Blocked domains: 10802
+# Version: 20250920204736
+# Last modified: 2025/09/20 20:47:36
+# Blocked domains: 10788
 #
 local=/00-gov.cn/
 local=/www.00772229.com/
@@ -65,7 +65,6 @@ local=/0x5.me/
 local=/0z5jn.cn/
 local=/10000xing.cn/
 local=/1000su.com/
-local=/1717.1000uc.com/
 local=/enrichgw.10010.com/
 local=/jf.10010.com/
 local=/nishub1.10010.com/
@@ -2045,7 +2044,6 @@ local=/adimage.blm.net/
 local=/blossommo.com/
 local=/blue-rain.com.cn/
 local=/gg.blueidea.com/
-local=/bluemountcapital.cn/
 local=/iiid.bluescream.cn/
 local=/license.bluesoleil.com/
 local=/license2.bluesoleil.com/
@@ -3176,8 +3174,6 @@ local=/eddong.com/
 local=/etihad-vrs21rnod1.edgeone.app/
 local=/flaky-rose-zo1a2c6s16-9c77iwi0z1.edgeone.app/
 local=/pdfworknew-6d9lnfzqgb.edgeone.app/
-local=/powerful-tan-ks8mpqad9l-w2r56ynb1z.edgeone.app/
-local=/southwestnortheast-ixmbuce0q6.edgeone.app/
 local=/sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app/
 local=/tender-documents-for-office-renovation-makita-gulf-q61uegv6f7.edgeone.app/
 local=/webemali234rfy3ch34fc8ui43-fy234-dyalqukr2d.edgeone.app/
@@ -3236,7 +3232,6 @@ local=/h-adashx.ut.ele.me/
 local=/log.star.ele.me/
 local=/newton-api.ele.me/
 local=/metrics.ellechina.com/
-local=/trk.elmorietschle.cn/
 local=/d.elong.cn/
 local=/mhuodong.elong.com/
 local=/emar.com/
@@ -3492,7 +3487,6 @@ local=/v6-novelapp-nxyd.fqnovelvod.com/
 local=/freedrive.cn/
 local=/dd1.freep.cn/
 local=/dd2.freep.cn/
-local=/frwjiv.cn/
 local=/fsjjrbz.cn/
 local=/image.fsyule.net/
 local=/fthcz.com/
@@ -3708,7 +3702,6 @@ local=/gk277.cn/
 local=/50m.gkcyc.com/
 local=/gklox.cn/
 local=/gknybkl.cn/
-local=/gkoast.cn/
 local=/nwww.gkxs.com/
 local=/media.globalsign.com/
 local=/seal.globalsign.com/
@@ -3718,7 +3711,6 @@ local=/electronics.tradeshow.globalsources.com/
 local=/exhibition.edm.globalsources.com/
 local=/fashion.edm.globalsources.com/
 local=/fashion.tradeshow.globalsources.com/
-local=/goe.edm.globalsources.com/
 local=/gslive.edm.globalsources.com/
 local=/gsmatch.edm.globalsources.com/
 local=/gsol.edm.globalsources.com/
@@ -4341,7 +4333,6 @@ local=/hsych.com/
 local=/ht55.cn/
 local=/new.htcui.com/
 local=/hthvc.icu/
-local=/htlhvnk.cn/
 local=/httpdns.pro/
 local=/htubzpb.cn/
 local=/m.hua6.cn/
@@ -5423,7 +5414,6 @@ local=/kxxfdwt.cn/
 local=/ky595images.com/
 local=/kychq.cn/
 local=/kyikdee.cn/
-local=/kyjlt.cn/
 local=/kzchyhr.cn/
 local=/kzjkexn.cn/
 local=/go.eml.l-com.cn/
@@ -5661,7 +5651,6 @@ local=/lomark.cn/
 local=/longkoupeanut.cn/
 local=/longshangxiaodai.cn/
 local=/looyu.com/
-local=/lorprpx.cn/
 local=/louisan.cn/
 local=/lousivency.com.cn/
 local=/c.lovame.com.cn/
@@ -5679,7 +5668,6 @@ local=/lp1901.com/
 local=/lpmzt.cn/
 local=/lpsgc.cn/
 local=/ad.lqalm.com/
-local=/lrsdh.cn/
 local=/lrswl.com/
 local=/ny.lshdw.cc/
 local=/a1.lshou.com/
@@ -6411,7 +6399,6 @@ local=/officesoftcn.com/
 local=/orthistic.ofudnyza.cn/
 local=/ogawaj.digital/
 local=/ogouawc.cn/
-local=/ogtys0l.cn/
 local=/ohayoo.cn/
 local=/ohuam.com/
 local=/apps5.oingo.com/
@@ -8709,7 +8696,6 @@ local=/eyunossw.tymcdn.com/
 local=/www.tysfcy.cn/
 local=/tz-dsp.com/
 local=/tzcfyre.cn/
-local=/tzifuxp.cn/
 local=/tzlit.cn/
 local=/kn.tzsmab.cn/
 local=/njd.tzxianghao.cn/

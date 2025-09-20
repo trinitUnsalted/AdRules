@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/trinitUnsalted/AdRules
   # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockmihomolite.yaml
-  # Version: 20250920163029
-  # Last modified: 2025/09/20 16:30:29
-  # Blocked domains: 10802
+  # Version: 20250920204737
+  # Last modified: 2025/09/20 20:47:37
+  # Blocked domains: 10788
   #
   - '+.00-gov.cn'
   - '+.www.00772229.com'
@@ -66,7 +66,6 @@ payload:
   - '+.0z5jn.cn'
   - '+.10000xing.cn'
   - '+.1000su.com'
-  - '+.1717.1000uc.com'
   - '+.enrichgw.10010.com'
   - '+.jf.10010.com'
   - '+.nishub1.10010.com'
@@ -2046,7 +2045,6 @@ payload:
   - '+.blossommo.com'
   - '+.blue-rain.com.cn'
   - '+.gg.blueidea.com'
-  - '+.bluemountcapital.cn'
   - '+.iiid.bluescream.cn'
   - '+.license.bluesoleil.com'
   - '+.license2.bluesoleil.com'
@@ -3177,8 +3175,6 @@ payload:
   - '+.etihad-vrs21rnod1.edgeone.app'
   - '+.flaky-rose-zo1a2c6s16-9c77iwi0z1.edgeone.app'
   - '+.pdfworknew-6d9lnfzqgb.edgeone.app'
-  - '+.powerful-tan-ks8mpqad9l-w2r56ynb1z.edgeone.app'
-  - '+.southwestnortheast-ixmbuce0q6.edgeone.app'
   - '+.sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app'
   - '+.tender-documents-for-office-renovation-makita-gulf-q61uegv6f7.edgeone.app'
   - '+.webemali234rfy3ch34fc8ui43-fy234-dyalqukr2d.edgeone.app'
@@ -3237,7 +3233,6 @@ payload:
   - '+.log.star.ele.me'
   - '+.newton-api.ele.me'
   - '+.metrics.ellechina.com'
-  - '+.trk.elmorietschle.cn'
   - '+.d.elong.cn'
   - '+.mhuodong.elong.com'
   - '+.emar.com'
@@ -3493,7 +3488,6 @@ payload:
   - '+.freedrive.cn'
   - '+.dd1.freep.cn'
   - '+.dd2.freep.cn'
-  - '+.frwjiv.cn'
   - '+.fsjjrbz.cn'
   - '+.image.fsyule.net'
   - '+.fthcz.com'
@@ -3709,7 +3703,6 @@ payload:
   - '+.50m.gkcyc.com'
   - '+.gklox.cn'
   - '+.gknybkl.cn'
-  - '+.gkoast.cn'
   - '+.nwww.gkxs.com'
   - '+.media.globalsign.com'
   - '+.seal.globalsign.com'
@@ -3719,7 +3712,6 @@ payload:
   - '+.exhibition.edm.globalsources.com'
   - '+.fashion.edm.globalsources.com'
   - '+.fashion.tradeshow.globalsources.com'
-  - '+.goe.edm.globalsources.com'
   - '+.gslive.edm.globalsources.com'
   - '+.gsmatch.edm.globalsources.com'
   - '+.gsol.edm.globalsources.com'
@@ -4342,7 +4334,6 @@ payload:
   - '+.ht55.cn'
   - '+.new.htcui.com'
   - '+.hthvc.icu'
-  - '+.htlhvnk.cn'
   - '+.httpdns.pro'
   - '+.htubzpb.cn'
   - '+.m.hua6.cn'
@@ -5424,7 +5415,6 @@ payload:
   - '+.ky595images.com'
   - '+.kychq.cn'
   - '+.kyikdee.cn'
-  - '+.kyjlt.cn'
   - '+.kzchyhr.cn'
   - '+.kzjkexn.cn'
   - '+.go.eml.l-com.cn'
@@ -5662,7 +5652,6 @@ payload:
   - '+.longkoupeanut.cn'
   - '+.longshangxiaodai.cn'
   - '+.looyu.com'
-  - '+.lorprpx.cn'
   - '+.louisan.cn'
   - '+.lousivency.com.cn'
   - '+.c.lovame.com.cn'
@@ -5680,7 +5669,6 @@ payload:
   - '+.lpmzt.cn'
   - '+.lpsgc.cn'
   - '+.ad.lqalm.com'
-  - '+.lrsdh.cn'
   - '+.lrswl.com'
   - '+.ny.lshdw.cc'
   - '+.a1.lshou.com'
@@ -6412,7 +6400,6 @@ payload:
   - '+.orthistic.ofudnyza.cn'
   - '+.ogawaj.digital'
   - '+.ogouawc.cn'
-  - '+.ogtys0l.cn'
   - '+.ohayoo.cn'
   - '+.ohuam.com'
   - '+.apps5.oingo.com'
@@ -8710,7 +8697,6 @@ payload:
   - '+.www.tysfcy.cn'
   - '+.tz-dsp.com'
   - '+.tzcfyre.cn'
-  - '+.tzifuxp.cn'
   - '+.tzlit.cn'
   - '+.kn.tzsmab.cn'
   - '+.njd.tzxianghao.cn'

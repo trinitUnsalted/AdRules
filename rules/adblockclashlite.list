@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：217heidai Rules、217heidai DNS、Hyper DNSRules、GOODBYEADS DNS、CatsTeam Rules、CatsTeam  DNS、666  DNS、TW165反诈骗、DD-AD、hululu1068 DNS、hululu1068 List。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/trinitUnsalted/AdRules
 # Source: https://raw.githubusercontent.com/trinitUnsalted/AdRules/main/rules/adblockclashlite.list
-# Version: 20250920163029
-# Last modified: 2025/09/20 16:30:29
-# Blocked domains: 10802
+# Version: 20250920204737
+# Last modified: 2025/09/20 20:47:37
+# Blocked domains: 10788
 #
 [Rule]
 DOMAIN-SUFFIX,00-gov.cn,REJECT-DROP
@@ -66,7 +66,6 @@ DOMAIN-SUFFIX,0x5.me,REJECT-DROP
 DOMAIN-SUFFIX,0z5jn.cn,REJECT-DROP
 DOMAIN-SUFFIX,10000xing.cn,REJECT-DROP
 DOMAIN-SUFFIX,1000su.com,REJECT-DROP
-DOMAIN-SUFFIX,1717.1000uc.com,REJECT-DROP
 DOMAIN-SUFFIX,enrichgw.10010.com,REJECT-DROP
 DOMAIN-SUFFIX,jf.10010.com,REJECT-DROP
 DOMAIN-SUFFIX,nishub1.10010.com,REJECT-DROP
@@ -2046,7 +2045,6 @@ DOMAIN-SUFFIX,adimage.blm.net,REJECT-DROP
 DOMAIN-SUFFIX,blossommo.com,REJECT-DROP
 DOMAIN-SUFFIX,blue-rain.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,gg.blueidea.com,REJECT-DROP
-DOMAIN-SUFFIX,bluemountcapital.cn,REJECT-DROP
 DOMAIN-SUFFIX,iiid.bluescream.cn,REJECT-DROP
 DOMAIN-SUFFIX,license.bluesoleil.com,REJECT-DROP
 DOMAIN-SUFFIX,license2.bluesoleil.com,REJECT-DROP
@@ -3177,8 +3175,6 @@ DOMAIN-SUFFIX,eddong.com,REJECT-DROP
 DOMAIN-SUFFIX,etihad-vrs21rnod1.edgeone.app,REJECT-DROP
 DOMAIN-SUFFIX,flaky-rose-zo1a2c6s16-9c77iwi0z1.edgeone.app,REJECT-DROP
 DOMAIN-SUFFIX,pdfworknew-6d9lnfzqgb.edgeone.app,REJECT-DROP
-DOMAIN-SUFFIX,powerful-tan-ks8mpqad9l-w2r56ynb1z.edgeone.app,REJECT-DROP
-DOMAIN-SUFFIX,southwestnortheast-ixmbuce0q6.edgeone.app,REJECT-DROP
 DOMAIN-SUFFIX,sqqqwee2334cloudstorage90034ppoe-7230s2b404.edgeone.app,REJECT-DROP
 DOMAIN-SUFFIX,tender-documents-for-office-renovation-makita-gulf-q61uegv6f7.edgeone.app,REJECT-DROP
 DOMAIN-SUFFIX,webemali234rfy3ch34fc8ui43-fy234-dyalqukr2d.edgeone.app,REJECT-DROP
@@ -3237,7 +3233,6 @@ DOMAIN-SUFFIX,h-adashx.ut.ele.me,REJECT-DROP
 DOMAIN-SUFFIX,log.star.ele.me,REJECT-DROP
 DOMAIN-SUFFIX,newton-api.ele.me,REJECT-DROP
 DOMAIN-SUFFIX,metrics.ellechina.com,REJECT-DROP
-DOMAIN-SUFFIX,trk.elmorietschle.cn,REJECT-DROP
 DOMAIN-SUFFIX,d.elong.cn,REJECT-DROP
 DOMAIN-SUFFIX,mhuodong.elong.com,REJECT-DROP
 DOMAIN-SUFFIX,emar.com,REJECT-DROP
@@ -3493,7 +3488,6 @@ DOMAIN-SUFFIX,v6-novelapp-nxyd.fqnovelvod.com,REJECT-DROP
 DOMAIN-SUFFIX,freedrive.cn,REJECT-DROP
 DOMAIN-SUFFIX,dd1.freep.cn,REJECT-DROP
 DOMAIN-SUFFIX,dd2.freep.cn,REJECT-DROP
-DOMAIN-SUFFIX,frwjiv.cn,REJECT-DROP
 DOMAIN-SUFFIX,fsjjrbz.cn,REJECT-DROP
 DOMAIN-SUFFIX,image.fsyule.net,REJECT-DROP
 DOMAIN-SUFFIX,fthcz.com,REJECT-DROP
@@ -3709,7 +3703,6 @@ DOMAIN-SUFFIX,gk277.cn,REJECT-DROP
 DOMAIN-SUFFIX,50m.gkcyc.com,REJECT-DROP
 DOMAIN-SUFFIX,gklox.cn,REJECT-DROP
 DOMAIN-SUFFIX,gknybkl.cn,REJECT-DROP
-DOMAIN-SUFFIX,gkoast.cn,REJECT-DROP
 DOMAIN-SUFFIX,nwww.gkxs.com,REJECT-DROP
 DOMAIN-SUFFIX,media.globalsign.com,REJECT-DROP
 DOMAIN-SUFFIX,seal.globalsign.com,REJECT-DROP
@@ -3719,7 +3712,6 @@ DOMAIN-SUFFIX,electronics.tradeshow.globalsources.com,REJECT-DROP
 DOMAIN-SUFFIX,exhibition.edm.globalsources.com,REJECT-DROP
 DOMAIN-SUFFIX,fashion.edm.globalsources.com,REJECT-DROP
 DOMAIN-SUFFIX,fashion.tradeshow.globalsources.com,REJECT-DROP
-DOMAIN-SUFFIX,goe.edm.globalsources.com,REJECT-DROP
 DOMAIN-SUFFIX,gslive.edm.globalsources.com,REJECT-DROP
 DOMAIN-SUFFIX,gsmatch.edm.globalsources.com,REJECT-DROP
 DOMAIN-SUFFIX,gsol.edm.globalsources.com,REJECT-DROP
@@ -4342,7 +4334,6 @@ DOMAIN-SUFFIX,hsych.com,REJECT-DROP
 DOMAIN-SUFFIX,ht55.cn,REJECT-DROP
 DOMAIN-SUFFIX,new.htcui.com,REJECT-DROP
 DOMAIN-SUFFIX,hthvc.icu,REJECT-DROP
-DOMAIN-SUFFIX,htlhvnk.cn,REJECT-DROP
 DOMAIN-SUFFIX,httpdns.pro,REJECT-DROP
 DOMAIN-SUFFIX,htubzpb.cn,REJECT-DROP
 DOMAIN-SUFFIX,m.hua6.cn,REJECT-DROP
@@ -5424,7 +5415,6 @@ DOMAIN-SUFFIX,kxxfdwt.cn,REJECT-DROP
 DOMAIN-SUFFIX,ky595images.com,REJECT-DROP
 DOMAIN-SUFFIX,kychq.cn,REJECT-DROP
 DOMAIN-SUFFIX,kyikdee.cn,REJECT-DROP
-DOMAIN-SUFFIX,kyjlt.cn,REJECT-DROP
 DOMAIN-SUFFIX,kzchyhr.cn,REJECT-DROP
 DOMAIN-SUFFIX,kzjkexn.cn,REJECT-DROP
 DOMAIN-SUFFIX,go.eml.l-com.cn,REJECT-DROP
@@ -5662,7 +5652,6 @@ DOMAIN-SUFFIX,lomark.cn,REJECT-DROP
 DOMAIN-SUFFIX,longkoupeanut.cn,REJECT-DROP
 DOMAIN-SUFFIX,longshangxiaodai.cn,REJECT-DROP
 DOMAIN-SUFFIX,looyu.com,REJECT-DROP
-DOMAIN-SUFFIX,lorprpx.cn,REJECT-DROP
 DOMAIN-SUFFIX,louisan.cn,REJECT-DROP
 DOMAIN-SUFFIX,lousivency.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,c.lovame.com.cn,REJECT-DROP
@@ -5680,7 +5669,6 @@ DOMAIN-SUFFIX,lp1901.com,REJECT-DROP
 DOMAIN-SUFFIX,lpmzt.cn,REJECT-DROP
 DOMAIN-SUFFIX,lpsgc.cn,REJECT-DROP
 DOMAIN-SUFFIX,ad.lqalm.com,REJECT-DROP
-DOMAIN-SUFFIX,lrsdh.cn,REJECT-DROP
 DOMAIN-SUFFIX,lrswl.com,REJECT-DROP
 DOMAIN-SUFFIX,ny.lshdw.cc,REJECT-DROP
 DOMAIN-SUFFIX,a1.lshou.com,REJECT-DROP
@@ -6412,7 +6400,6 @@ DOMAIN-SUFFIX,officesoftcn.com,REJECT-DROP
 DOMAIN-SUFFIX,orthistic.ofudnyza.cn,REJECT-DROP
 DOMAIN-SUFFIX,ogawaj.digital,REJECT-DROP
 DOMAIN-SUFFIX,ogouawc.cn,REJECT-DROP
-DOMAIN-SUFFIX,ogtys0l.cn,REJECT-DROP
 DOMAIN-SUFFIX,ohayoo.cn,REJECT-DROP
 DOMAIN-SUFFIX,ohuam.com,REJECT-DROP
 DOMAIN-SUFFIX,apps5.oingo.com,REJECT-DROP
@@ -8710,7 +8697,6 @@ DOMAIN-SUFFIX,eyunossw.tymcdn.com,REJECT-DROP
 DOMAIN-SUFFIX,www.tysfcy.cn,REJECT-DROP
 DOMAIN-SUFFIX,tz-dsp.com,REJECT-DROP
 DOMAIN-SUFFIX,tzcfyre.cn,REJECT-DROP
-DOMAIN-SUFFIX,tzifuxp.cn,REJECT-DROP
 DOMAIN-SUFFIX,tzlit.cn,REJECT-DROP
 DOMAIN-SUFFIX,kn.tzsmab.cn,REJECT-DROP
 DOMAIN-SUFFIX,njd.tzxianghao.cn,REJECT-DROP
